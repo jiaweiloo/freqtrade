@@ -1,0 +1,1243 @@
+failed to get console mode for stdout: The handle is invalid.
+failed to get console mode for stdout: The handle is invalid.
+
+Exchange Binance has 1235 active pairs:
++---------------+----------------+----------+---------+----------+--------+----------+----------+------------+
+|            Id |         Symbol |     Base |   Quote |   Active |   Spot |   Margin |   Future |   Leverage |
+|---------------+----------------+----------+---------+----------+--------+----------+----------+------------|
+| 1000SATSFDUSD | 1000SATS/FDUSD | 1000SATS |   FDUSD |     True |   Spot |          |          |          1 |
+|   1000SATSTRY |   1000SATS/TRY | 1000SATS |     TRY |     True |   Spot |          |          |          1 |
+|  1000SATSUSDT |  1000SATS/USDT | 1000SATS |    USDT |     True |   Spot |   Margin |          |          1 |
+|      1INCHBTC |      1INCH/BTC |    1INCH |     BTC |     True |   Spot |   Margin |          |          1 |
+|     1INCHUSDT |     1INCH/USDT |    1INCH |    USDT |     True |   Spot |   Margin |          |          1 |
+|       AAVEBNB |       AAVE/BNB |     AAVE |     BNB |     True |   Spot |          |          |          1 |
+|       AAVEBTC |       AAVE/BTC |     AAVE |     BTC |     True |   Spot |   Margin |          |          1 |
+|       AAVEETH |       AAVE/ETH |     AAVE |     ETH |     True |   Spot |          |          |          1 |
+|       AAVETRY |       AAVE/TRY |     AAVE |     TRY |     True |   Spot |          |          |          1 |
+|      AAVEUSDT |      AAVE/USDT |     AAVE |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ACABTC |        ACA/BTC |      ACA |     BTC |     True |   Spot |          |          |          1 |
+|        ACATRY |        ACA/TRY |      ACA |     TRY |     True |   Spot |          |          |          1 |
+|       ACAUSDT |       ACA/USDT |      ACA |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ACEBNB |        ACE/BNB |      ACE |     BNB |     True |   Spot |          |          |          1 |
+|        ACEBTC |        ACE/BTC |      ACE |     BTC |     True |   Spot |          |          |          1 |
+|      ACEFDUSD |      ACE/FDUSD |      ACE |   FDUSD |     True |   Spot |          |          |          1 |
+|        ACETRY |        ACE/TRY |      ACE |     TRY |     True |   Spot |          |          |          1 |
+|       ACEUSDT |       ACE/USDT |      ACE |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ACHBTC |        ACH/BTC |      ACH |     BTC |     True |   Spot |          |          |          1 |
+|        ACHTRY |        ACH/TRY |      ACH |     TRY |     True |   Spot |          |          |          1 |
+|       ACHUSDT |       ACH/USDT |      ACH |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ACMTRY |        ACM/TRY |      ACM |     TRY |     True |   Spot |          |          |          1 |
+|       ACMUSDT |       ACM/USDT |      ACM |    USDT |     True |   Spot |          |          |          1 |
+|        ADABNB |        ADA/BNB |      ADA |     BNB |     True |   Spot |          |          |          1 |
+|        ADABRL |        ADA/BRL |      ADA |     BRL |     True |   Spot |          |          |          1 |
+|        ADABTC |        ADA/BTC |      ADA |     BTC |     True |   Spot |   Margin |          |          1 |
+|        ADAETH |        ADA/ETH |      ADA |     ETH |     True |   Spot |   Margin |          |          1 |
+|        ADAEUR |        ADA/EUR |      ADA |     EUR |     True |   Spot |          |          |          1 |
+|      ADAFDUSD |      ADA/FDUSD |      ADA |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        ADATRY |        ADA/TRY |      ADA |     TRY |     True |   Spot |          |          |          1 |
+|       ADATUSD |       ADA/TUSD |      ADA |    TUSD |     True |   Spot |          |          |          1 |
+|       ADAUSDC |       ADA/USDC |      ADA |    USDC |     True |   Spot |   Margin |          |          1 |
+|       ADAUSDT |       ADA/USDT |      ADA |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ADXBTC |        ADX/BTC |      ADX |     BTC |     True |   Spot |          |          |          1 |
+|        ADXETH |        ADX/ETH |      ADX |     ETH |     True |   Spot |          |          |          1 |
+|       ADXUSDT |       ADX/USDT |      ADX |    USDT |     True |   Spot |   Margin |          |          1 |
+|     AERGOUSDT |     AERGO/USDT |    AERGO |    USDT |     True |   Spot |   Margin |          |          1 |
+|      AEURUSDT |      AEUR/USDT |     AEUR |    USDT |     True |   Spot |   Margin |          |          1 |
+|       AEVOBNB |       AEVO/BNB |     AEVO |     BNB |     True |   Spot |          |          |          1 |
+|       AEVOBTC |       AEVO/BTC |     AEVO |     BTC |     True |   Spot |          |          |          1 |
+|     AEVOFDUSD |     AEVO/FDUSD |     AEVO |   FDUSD |     True |   Spot |          |          |          1 |
+|       AEVOTRY |       AEVO/TRY |     AEVO |     TRY |     True |   Spot |          |          |          1 |
+|      AEVOUSDT |      AEVO/USDT |     AEVO |    USDT |     True |   Spot |   Margin |          |          1 |
+|       AGIXBTC |       AGIX/BTC |     AGIX |     BTC |     True |   Spot |   Margin |          |          1 |
+|     AGIXFDUSD |     AGIX/FDUSD |     AGIX |   FDUSD |     True |   Spot |          |          |          1 |
+|       AGIXTRY |       AGIX/TRY |     AGIX |     TRY |     True |   Spot |          |          |          1 |
+|      AGIXUSDT |      AGIX/USDT |     AGIX |    USDT |     True |   Spot |   Margin |          |          1 |
+|       AGLDBTC |       AGLD/BTC |     AGLD |     BTC |     True |   Spot |          |          |          1 |
+|      AGLDUSDT |      AGLD/USDT |     AGLD |    USDT |     True |   Spot |   Margin |          |          1 |
+|         AIBNB |         AI/BNB |       AI |     BNB |     True |   Spot |          |          |          1 |
+|         AIBTC |         AI/BTC |       AI |     BTC |     True |   Spot |          |          |          1 |
+|       AIFDUSD |       AI/FDUSD |       AI |   FDUSD |     True |   Spot |          |          |          1 |
+|         AITRY |         AI/TRY |       AI |     TRY |     True |   Spot |          |          |          1 |
+|        AITUSD |        AI/TUSD |       AI |    TUSD |     True |   Spot |          |          |          1 |
+|        AIUSDT |        AI/USDT |       AI |    USDT |     True |   Spot |   Margin |          |          1 |
+|      AKROUSDT |      AKRO/USDT |     AKRO |    USDT |     True |   Spot |   Margin |          |          1 |
+|       ALCXBTC |       ALCX/BTC |     ALCX |     BTC |     True |   Spot |          |          |          1 |
+|      ALCXUSDT |      ALCX/USDT |     ALCX |    USDT |     True |   Spot |   Margin |          |          1 |
+|       ALGOBTC |       ALGO/BTC |     ALGO |     BTC |     True |   Spot |   Margin |          |          1 |
+|       ALGOETH |       ALGO/ETH |     ALGO |     ETH |     True |   Spot |          |          |          1 |
+|     ALGOFDUSD |     ALGO/FDUSD |     ALGO |   FDUSD |     True |   Spot |          |          |          1 |
+|       ALGOTRY |       ALGO/TRY |     ALGO |     TRY |     True |   Spot |          |          |          1 |
+|      ALGOUSDT |      ALGO/USDT |     ALGO |    USDT |     True |   Spot |   Margin |          |          1 |
+|      ALICEBTC |      ALICE/BTC |    ALICE |     BTC |     True |   Spot |          |          |          1 |
+|      ALICETRY |      ALICE/TRY |    ALICE |     TRY |     True |   Spot |          |          |          1 |
+|     ALICEUSDT |     ALICE/USDT |    ALICE |    USDT |     True |   Spot |   Margin |          |          1 |
+|     ALPACABTC |     ALPACA/BTC |   ALPACA |     BTC |     True |   Spot |          |          |          1 |
+|    ALPACAUSDT |    ALPACA/USDT |   ALPACA |    USDT |     True |   Spot |   Margin |          |          1 |
+|      ALPHABTC |      ALPHA/BTC |    ALPHA |     BTC |     True |   Spot |   Margin |          |          1 |
+|     ALPHAUSDT |     ALPHA/USDT |    ALPHA |    USDT |     True |   Spot |   Margin |          |          1 |
+|     ALPINEBTC |     ALPINE/BTC |   ALPINE |     BTC |     True |   Spot |          |          |          1 |
+|     ALPINETRY |     ALPINE/TRY |   ALPINE |     TRY |     True |   Spot |          |          |          1 |
+|    ALPINEUSDT |    ALPINE/USDT |   ALPINE |    USDT |     True |   Spot |          |          |          1 |
+|        ALTBNB |        ALT/BNB |      ALT |     BNB |     True |   Spot |          |          |          1 |
+|        ALTBTC |        ALT/BTC |      ALT |     BTC |     True |   Spot |          |          |          1 |
+|      ALTFDUSD |      ALT/FDUSD |      ALT |   FDUSD |     True |   Spot |          |          |          1 |
+|        ALTTRY |        ALT/TRY |      ALT |     TRY |     True |   Spot |          |          |          1 |
+|       ALTUSDC |       ALT/USDC |      ALT |    USDC |     True |   Spot |   Margin |          |          1 |
+|       ALTUSDT |       ALT/USDT |      ALT |    USDT |     True |   Spot |   Margin |          |          1 |
+|        AMBBTC |        AMB/BTC |      AMB |     BTC |     True |   Spot |          |          |          1 |
+|       AMBUSDT |       AMB/USDT |      AMB |    USDT |     True |   Spot |   Margin |          |          1 |
+|        AMPTRY |        AMP/TRY |      AMP |     TRY |     True |   Spot |          |          |          1 |
+|       AMPUSDT |       AMP/USDT |      AMP |    USDT |     True |   Spot |   Margin |          |          1 |
+|       ANKRBTC |       ANKR/BTC |     ANKR |     BTC |     True |   Spot |   Margin |          |          1 |
+|       ANKRTRY |       ANKR/TRY |     ANKR |     TRY |     True |   Spot |          |          |          1 |
+|      ANKRUSDT |      ANKR/USDT |     ANKR |    USDT |     True |   Spot |   Margin |          |          1 |
+|        APEBTC |        APE/BTC |      APE |     BTC |     True |   Spot |   Margin |          |          1 |
+|        APEETH |        APE/ETH |      APE |     ETH |     True |   Spot |   Margin |          |          1 |
+|        APETRY |        APE/TRY |      APE |     TRY |     True |   Spot |          |          |          1 |
+|       APEUSDT |       APE/USDT |      APE |    USDT |     True |   Spot |   Margin |          |          1 |
+|       API3BTC |       API3/BTC |     API3 |     BTC |     True |   Spot |          |          |          1 |
+|       API3TRY |       API3/TRY |     API3 |     TRY |     True |   Spot |          |          |          1 |
+|      API3USDT |      API3/USDT |     API3 |    USDT |     True |   Spot |   Margin |          |          1 |
+|        APTBTC |        APT/BTC |      APT |     BTC |     True |   Spot |          |          |          1 |
+|        APTETH |        APT/ETH |      APT |     ETH |     True |   Spot |          |          |          1 |
+|        APTEUR |        APT/EUR |      APT |     EUR |     True |   Spot |          |          |          1 |
+|      APTFDUSD |      APT/FDUSD |      APT |   FDUSD |     True |   Spot |          |          |          1 |
+|        APTTRY |        APT/TRY |      APT |     TRY |     True |   Spot |          |          |          1 |
+|       APTUSDT |       APT/USDT |      APT |    USDT |     True |   Spot |   Margin |          |          1 |
+|         ARBTC |         AR/BTC |       AR |     BTC |     True |   Spot |          |          |          1 |
+|         ARTRY |         AR/TRY |       AR |     TRY |     True |   Spot |          |          |          1 |
+|        ARUSDT |        AR/USDT |       AR |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ARBBTC |        ARB/BTC |      ARB |     BTC |     True |   Spot |   Margin |          |          1 |
+|        ARBETH |        ARB/ETH |      ARB |     ETH |     True |   Spot |          |          |          1 |
+|        ARBEUR |        ARB/EUR |      ARB |     EUR |     True |   Spot |          |          |          1 |
+|      ARBFDUSD |      ARB/FDUSD |      ARB |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        ARBTRY |        ARB/TRY |      ARB |     TRY |     True |   Spot |          |          |          1 |
+|       ARBTUSD |       ARB/TUSD |      ARB |    TUSD |     True |   Spot |   Margin |          |          1 |
+|       ARBUSDC |       ARB/USDC |      ARB |    USDC |     True |   Spot |   Margin |          |          1 |
+|       ARBUSDT |       ARB/USDT |      ARB |    USDT |     True |   Spot |   Margin |          |          1 |
+|       ARDRBTC |       ARDR/BTC |     ARDR |     BTC |     True |   Spot |          |          |          1 |
+|      ARDRUSDT |      ARDR/USDT |     ARDR |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ARKTRY |        ARK/TRY |      ARK |     TRY |     True |   Spot |          |          |          1 |
+|       ARKUSDT |       ARK/USDT |      ARK |    USDT |     True |   Spot |   Margin |          |          1 |
+|       ARKMBNB |       ARKM/BNB |     ARKM |     BNB |     True |   Spot |          |          |          1 |
+|       ARKMBTC |       ARKM/BTC |     ARKM |     BTC |     True |   Spot |          |          |          1 |
+|     ARKMFDUSD |     ARKM/FDUSD |     ARKM |   FDUSD |     True |   Spot |          |          |          1 |
+|       ARKMTRY |       ARKM/TRY |     ARKM |     TRY |     True |   Spot |          |          |          1 |
+|      ARKMTUSD |      ARKM/TUSD |     ARKM |    TUSD |     True |   Spot |          |          |          1 |
+|      ARKMUSDT |      ARKM/USDT |     ARKM |    USDT |     True |   Spot |   Margin |          |          1 |
+|       ARPABTC |       ARPA/BTC |     ARPA |     BTC |     True |   Spot |   Margin |          |          1 |
+|       ARPATRY |       ARPA/TRY |     ARPA |     TRY |     True |   Spot |          |          |          1 |
+|      ARPAUSDT |      ARPA/USDT |     ARPA |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ASRTRY |        ASR/TRY |      ASR |     TRY |     True |   Spot |          |          |          1 |
+|       ASRUSDT |       ASR/USDT |      ASR |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ASTBTC |        AST/BTC |      AST |     BTC |     True |   Spot |          |          |          1 |
+|       ASTUSDT |       AST/USDT |      AST |    USDT |     True |   Spot |   Margin |          |          1 |
+|       ASTRBTC |       ASTR/BTC |     ASTR |     BTC |     True |   Spot |          |          |          1 |
+|      ASTRUSDT |      ASTR/USDT |     ASTR |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ATABTC |        ATA/BTC |      ATA |     BTC |     True |   Spot |          |          |          1 |
+|       ATAUSDT |       ATA/USDT |      ATA |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ATMTRY |        ATM/TRY |      ATM |     TRY |     True |   Spot |          |          |          1 |
+|       ATMUSDT |       ATM/USDT |      ATM |    USDT |     True |   Spot |   Margin |          |          1 |
+|       ATOMBNB |       ATOM/BNB |     ATOM |     BNB |     True |   Spot |          |          |          1 |
+|       ATOMBTC |       ATOM/BTC |     ATOM |     BTC |     True |   Spot |   Margin |          |          1 |
+|       ATOMETH |       ATOM/ETH |     ATOM |     ETH |     True |   Spot |          |          |          1 |
+|       ATOMEUR |       ATOM/EUR |     ATOM |     EUR |     True |   Spot |          |          |          1 |
+|     ATOMFDUSD |     ATOM/FDUSD |     ATOM |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|       ATOMTRY |       ATOM/TRY |     ATOM |     TRY |     True |   Spot |          |          |          1 |
+|      ATOMUSDT |      ATOM/USDT |     ATOM |    USDT |     True |   Spot |   Margin |          |          1 |
+|    AUCTIONBTC |    AUCTION/BTC |  AUCTION |     BTC |     True |   Spot |          |          |          1 |
+|  AUCTIONFDUSD |  AUCTION/FDUSD |  AUCTION |   FDUSD |     True |   Spot |          |          |          1 |
+|   AUCTIONUSDT |   AUCTION/USDT |  AUCTION |    USDT |     True |   Spot |   Margin |          |          1 |
+|      AUDIOBTC |      AUDIO/BTC |    AUDIO |     BTC |     True |   Spot |   Margin |          |          1 |
+|      AUDIOTRY |      AUDIO/TRY |    AUDIO |     TRY |     True |   Spot |          |          |          1 |
+|     AUDIOUSDT |     AUDIO/USDT |    AUDIO |    USDT |     True |   Spot |   Margin |          |          1 |
+|        AVABTC |        AVA/BTC |      AVA |     BTC |     True |   Spot |          |          |          1 |
+|       AVAUSDT |       AVA/USDT |      AVA |    USDT |     True |   Spot |   Margin |          |          1 |
+|       AVAXBNB |       AVAX/BNB |     AVAX |     BNB |     True |   Spot |          |          |          1 |
+|       AVAXBRL |       AVAX/BRL |     AVAX |     BRL |     True |   Spot |          |          |          1 |
+|       AVAXBTC |       AVAX/BTC |     AVAX |     BTC |     True |   Spot |   Margin |          |          1 |
+|       AVAXETH |       AVAX/ETH |     AVAX |     ETH |     True |   Spot |          |          |          1 |
+|       AVAXEUR |       AVAX/EUR |     AVAX |     EUR |     True |   Spot |          |          |          1 |
+|     AVAXFDUSD |     AVAX/FDUSD |     AVAX |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|       AVAXTRY |       AVAX/TRY |     AVAX |     TRY |     True |   Spot |          |          |          1 |
+|      AVAXTUSD |      AVAX/TUSD |     AVAX |    TUSD |     True |   Spot |          |          |          1 |
+|      AVAXUSDC |      AVAX/USDC |     AVAX |    USDC |     True |   Spot |   Margin |          |          1 |
+|      AVAXUSDT |      AVAX/USDT |     AVAX |    USDT |     True |   Spot |   Margin |          |          1 |
+|        AXLBTC |        AXL/BTC |      AXL |     BTC |     True |   Spot |          |          |          1 |
+|      AXLFDUSD |      AXL/FDUSD |      AXL |   FDUSD |     True |   Spot |          |          |          1 |
+|        AXLTRY |        AXL/TRY |      AXL |     TRY |     True |   Spot |          |          |          1 |
+|       AXLUSDT |       AXL/USDT |      AXL |    USDT |     True |   Spot |   Margin |          |          1 |
+|        AXSBNB |        AXS/BNB |      AXS |     BNB |     True |   Spot |          |          |          1 |
+|        AXSBTC |        AXS/BTC |      AXS |     BTC |     True |   Spot |   Margin |          |          1 |
+|        AXSETH |        AXS/ETH |      AXS |     ETH |     True |   Spot |          |          |          1 |
+|        AXSTRY |        AXS/TRY |      AXS |     TRY |     True |   Spot |          |          |          1 |
+|       AXSUSDT |       AXS/USDT |      AXS |    USDT |     True |   Spot |   Margin |          |          1 |
+|     BADGERBTC |     BADGER/BTC |   BADGER |     BTC |     True |   Spot |   Margin |          |          1 |
+|    BADGERUSDT |    BADGER/USDT |   BADGER |    USDT |     True |   Spot |   Margin |          |          1 |
+|       BAKEBTC |       BAKE/BTC |     BAKE |     BTC |     True |   Spot |   Margin |          |          1 |
+|      BAKEUSDT |      BAKE/USDT |     BAKE |    USDT |     True |   Spot |   Margin |          |          1 |
+|        BALBTC |        BAL/BTC |      BAL |     BTC |     True |   Spot |          |          |          1 |
+|       BALUSDT |       BAL/USDT |      BAL |    USDT |     True |   Spot |   Margin |          |          1 |
+|       BANDBTC |       BAND/BTC |     BAND |     BTC |     True |   Spot |   Margin |          |          1 |
+|       BANDTRY |       BAND/TRY |     BAND |     TRY |     True |   Spot |          |          |          1 |
+|      BANDUSDT |      BAND/USDT |     BAND |    USDT |     True |   Spot |   Margin |          |          1 |
+|        BARTRY |        BAR/TRY |      BAR |     TRY |     True |   Spot |          |          |          1 |
+|       BARUSDT |       BAR/USDT |      BAR |    USDT |     True |   Spot |          |          |          1 |
+|        BATBTC |        BAT/BTC |      BAT |     BTC |     True |   Spot |   Margin |          |          1 |
+|       BATUSDT |       BAT/USDT |      BAT |    USDT |     True |   Spot |   Margin |          |          1 |
+|        BCHBNB |        BCH/BNB |      BCH |     BNB |     True |   Spot |          |          |          1 |
+|        BCHBTC |        BCH/BTC |      BCH |     BTC |     True |   Spot |   Margin |          |          1 |
+|        BCHEUR |        BCH/EUR |      BCH |     EUR |     True |   Spot |          |          |          1 |
+|      BCHFDUSD |      BCH/FDUSD |      BCH |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        BCHTRY |        BCH/TRY |      BCH |     TRY |     True |   Spot |          |          |          1 |
+|       BCHTUSD |       BCH/TUSD |      BCH |    TUSD |     True |   Spot |          |          |          1 |
+|       BCHUSDC |       BCH/USDC |      BCH |    USDC |     True |   Spot |          |          |          1 |
+|       BCHUSDT |       BCH/USDT |      BCH |    USDT |     True |   Spot |   Margin |          |          1 |
+|      BEAMXTRY |      BEAMX/TRY |    BEAMX |     TRY |     True |   Spot |          |          |          1 |
+|     BEAMXUSDT |     BEAMX/USDT |    BEAMX |    USDT |     True |   Spot |   Margin |          |          1 |
+|        BELBTC |        BEL/BTC |      BEL |     BTC |     True |   Spot |          |          |          1 |
+|        BELTRY |        BEL/TRY |      BEL |     TRY |     True |   Spot |          |          |          1 |
+|       BELUSDT |       BEL/USDT |      BEL |    USDT |     True |   Spot |   Margin |          |          1 |
+|       BETABTC |       BETA/BTC |     BETA |     BTC |     True |   Spot |          |          |          1 |
+|      BETAUSDT |      BETA/USDT |     BETA |    USDT |     True |   Spot |   Margin |          |          1 |
+|       BICOBTC |       BICO/BTC |     BICO |     BTC |     True |   Spot |   Margin |          |          1 |
+|      BICOUSDT |      BICO/USDT |     BICO |    USDT |     True |   Spot |   Margin |          |          1 |
+|      BIFIUSDT |      BIFI/USDT |     BIFI |    USDT |     True |   Spot |          |          |          1 |
+|       BLURBTC |       BLUR/BTC |     BLUR |     BTC |     True |   Spot |          |          |          1 |
+|     BLURFDUSD |     BLUR/FDUSD |     BLUR |   FDUSD |     True |   Spot |          |          |          1 |
+|       BLURTRY |       BLUR/TRY |     BLUR |     TRY |     True |   Spot |          |          |          1 |
+|      BLURUSDC |      BLUR/USDC |     BLUR |    USDC |     True |   Spot |          |          |          1 |
+|      BLURUSDT |      BLUR/USDT |     BLUR |    USDT |     True |   Spot |   Margin |          |          1 |
+|        BLZBTC |        BLZ/BTC |      BLZ |     BTC |     True |   Spot |   Margin |          |          1 |
+|      BLZFDUSD |      BLZ/FDUSD |      BLZ |   FDUSD |     True |   Spot |          |          |          1 |
+|       BLZUSDT |       BLZ/USDT |      BLZ |    USDT |     True |   Spot |   Margin |          |          1 |
+|        BNBBRL |        BNB/BRL |      BNB |     BRL |     True |   Spot |          |          |          1 |
+|        BNBBTC |        BNB/BTC |      BNB |     BTC |     True |   Spot |   Margin |          |          1 |
+|        BNBDAI |        BNB/DAI |      BNB |     DAI |     True |   Spot |          |          |          1 |
+|        BNBETH |        BNB/ETH |      BNB |     ETH |     True |   Spot |   Margin |          |          1 |
+|        BNBEUR |        BNB/EUR |      BNB |     EUR |     True |   Spot |          |          |          1 |
+|      BNBFDUSD |      BNB/FDUSD |      BNB |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        BNBJPY |        BNB/JPY |      BNB |     JPY |     True |   Spot |          |          |          1 |
+|        BNBTRY |        BNB/TRY |      BNB |     TRY |     True |   Spot |          |          |          1 |
+|       BNBTUSD |       BNB/TUSD |      BNB |    TUSD |     True |   Spot |   Margin |          |          1 |
+|        BNBUAH |        BNB/UAH |      BNB |     UAH |     True |   Spot |          |          |          1 |
+|       BNBUSDC |       BNB/USDC |      BNB |    USDC |     True |   Spot |   Margin |          |          1 |
+|       BNBUSDT |       BNB/USDT |      BNB |    USDT |     True |   Spot |   Margin |          |          1 |
+|        BNTBTC |        BNT/BTC |      BNT |     BTC |     True |   Spot |          |          |          1 |
+|        BNTETH |        BNT/ETH |      BNT |     ETH |     True |   Spot |          |          |          1 |
+|       BNTUSDT |       BNT/USDT |      BNT |    USDT |     True |   Spot |   Margin |          |          1 |
+|        BNXBTC |        BNX/BTC |      BNX |     BTC |     True |   Spot |          |          |          1 |
+|       BNXUSDT |       BNX/USDT |      BNX |    USDT |     True |   Spot |   Margin |          |          1 |
+|       BOMEBTC |       BOME/BTC |     BOME |     BTC |     True |   Spot |          |          |          1 |
+|     BOMEFDUSD |     BOME/FDUSD |     BOME |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|       BOMETRY |       BOME/TRY |     BOME |     TRY |     True |   Spot |          |          |          1 |
+|      BOMEUSDC |      BOME/USDC |     BOME |    USDC |     True |   Spot |          |          |          1 |
+|      BOMEUSDT |      BOME/USDT |     BOME |    USDT |     True |   Spot |   Margin |          |          1 |
+|       BONDBTC |       BOND/BTC |     BOND |     BTC |     True |   Spot |          |          |          1 |
+|      BONDUSDT |      BOND/USDT |     BOND |    USDT |     True |   Spot |   Margin |          |          1 |
+|     BONKFDUSD |     BONK/FDUSD |     BONK |   FDUSD |     True |   Spot |          |          |          1 |
+|       BONKTRY |       BONK/TRY |     BONK |     TRY |     True |   Spot |          |          |          1 |
+|      BONKUSDC |      BONK/USDC |     BONK |    USDC |     True |   Spot |          |          |          1 |
+|      BONKUSDT |      BONK/USDT |     BONK |    USDT |     True |   Spot |   Margin |          |          1 |
+|        BSWTRY |        BSW/TRY |      BSW |     TRY |     True |   Spot |          |          |          1 |
+|       BSWUSDT |       BSW/USDT |      BSW |    USDT |     True |   Spot |   Margin |          |          1 |
+|       BTCAEUR |       BTC/AEUR |      BTC |    AEUR |     True |   Spot |          |          |          1 |
+|        BTCARS |        BTC/ARS |      BTC |     ARS |     True |   Spot |          |          |          1 |
+|       BTCBIDR |       BTC/BIDR |      BTC |    BIDR |     True |   Spot |          |          |          1 |
+|        BTCBRL |        BTC/BRL |      BTC |     BRL |     True |   Spot |          |          |          1 |
+|        BTCDAI |        BTC/DAI |      BTC |     DAI |     True |   Spot |   Margin |          |          1 |
+|        BTCEUR |        BTC/EUR |      BTC |     EUR |     True |   Spot |          |          |          1 |
+|      BTCFDUSD |      BTC/FDUSD |      BTC |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        BTCJPY |        BTC/JPY |      BTC |     JPY |     True |   Spot |          |          |          1 |
+|        BTCPLN |        BTC/PLN |      BTC |     PLN |     True |   Spot |          |          |          1 |
+|        BTCRON |        BTC/RON |      BTC |     RON |     True |   Spot |          |          |          1 |
+|        BTCTRY |        BTC/TRY |      BTC |     TRY |     True |   Spot |          |          |          1 |
+|       BTCTUSD |       BTC/TUSD |      BTC |    TUSD |     True |   Spot |   Margin |          |          1 |
+|        BTCUAH |        BTC/UAH |      BTC |     UAH |     True |   Spot |          |          |          1 |
+|       BTCUSDC |       BTC/USDC |      BTC |    USDC |     True |   Spot |   Margin |          |          1 |
+|       BTCUSDT |       BTC/USDT |      BTC |    USDT |     True |   Spot |   Margin |          |          1 |
+|        BTCZAR |        BTC/ZAR |      BTC |     ZAR |     True |   Spot |          |          |          1 |
+|       BTTCTRY |       BTTC/TRY |     BTTC |     TRY |     True |   Spot |          |          |          1 |
+|      BTTCUSDT |      BTTC/USDT |     BTTC |    USDT |     True |   Spot |   Margin |          |          1 |
+|    BURGERUSDT |    BURGER/USDT |   BURGER |    USDT |     True |   Spot |   Margin |          |          1 |
+|        C98BTC |        C98/BTC |      C98 |     BTC |     True |   Spot |   Margin |          |          1 |
+|       C98USDT |       C98/USDT |      C98 |    USDT |     True |   Spot |   Margin |          |          1 |
+|       CAKEBNB |       CAKE/BNB |     CAKE |     BNB |     True |   Spot |          |          |          1 |
+|       CAKEBTC |       CAKE/BTC |     CAKE |     BTC |     True |   Spot |   Margin |          |          1 |
+|       CAKETRY |       CAKE/TRY |     CAKE |     TRY |     True |   Spot |          |          |          1 |
+|      CAKETUSD |      CAKE/TUSD |     CAKE |    TUSD |     True |   Spot |          |          |          1 |
+|      CAKEUSDT |      CAKE/USDT |     CAKE |    USDT |     True |   Spot |   Margin |          |          1 |
+|       CELOBTC |       CELO/BTC |     CELO |     BTC |     True |   Spot |          |          |          1 |
+|      CELOUSDT |      CELO/USDT |     CELO |    USDT |     True |   Spot |   Margin |          |          1 |
+|       CELRBTC |       CELR/BTC |     CELR |     BTC |     True |   Spot |          |          |          1 |
+|      CELRUSDT |      CELR/USDT |     CELR |    USDT |     True |   Spot |   Margin |          |          1 |
+|        CFXBTC |        CFX/BTC |      CFX |     BTC |     True |   Spot |   Margin |          |          1 |
+|        CFXTRY |        CFX/TRY |      CFX |     TRY |     True |   Spot |          |          |          1 |
+|       CFXTUSD |       CFX/TUSD |      CFX |    TUSD |     True |   Spot |          |          |          1 |
+|       CFXUSDT |       CFX/USDT |      CFX |    USDT |     True |   Spot |   Margin |          |          1 |
+|      CHESSBTC |      CHESS/BTC |    CHESS |     BTC |     True |   Spot |          |          |          1 |
+|     CHESSUSDT |     CHESS/USDT |    CHESS |    USDT |     True |   Spot |   Margin |          |          1 |
+|        CHRBNB |        CHR/BNB |      CHR |     BNB |     True |   Spot |          |          |          1 |
+|        CHRBTC |        CHR/BTC |      CHR |     BTC |     True |   Spot |   Margin |          |          1 |
+|        CHRETH |        CHR/ETH |      CHR |     ETH |     True |   Spot |          |          |          1 |
+|       CHRUSDT |       CHR/USDT |      CHR |    USDT |     True |   Spot |   Margin |          |          1 |
+|        CHZBNB |        CHZ/BNB |      CHZ |     BNB |     True |   Spot |          |          |          1 |
+|        CHZBRL |        CHZ/BRL |      CHZ |     BRL |     True |   Spot |          |          |          1 |
+|        CHZBTC |        CHZ/BTC |      CHZ |     BTC |     True |   Spot |   Margin |          |          1 |
+|        CHZEUR |        CHZ/EUR |      CHZ |     EUR |     True |   Spot |          |          |          1 |
+|      CHZFDUSD |      CHZ/FDUSD |      CHZ |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        CHZTRY |        CHZ/TRY |      CHZ |     TRY |     True |   Spot |          |          |          1 |
+|       CHZUSDT |       CHZ/USDT |      CHZ |    USDT |     True |   Spot |   Margin |          |          1 |
+|       CITYTRY |       CITY/TRY |     CITY |     TRY |     True |   Spot |          |          |          1 |
+|      CITYUSDT |      CITY/USDT |     CITY |    USDT |     True |   Spot |          |          |          1 |
+|        CKBTRY |        CKB/TRY |      CKB |     TRY |     True |   Spot |          |          |          1 |
+|       CKBUSDC |       CKB/USDC |      CKB |    USDC |     True |   Spot |          |          |          1 |
+|       CKBUSDT |       CKB/USDT |      CKB |    USDT |     True |   Spot |   Margin |          |          1 |
+|        CLVBTC |        CLV/BTC |      CLV |     BTC |     True |   Spot |   Margin |          |          1 |
+|       CLVUSDT |       CLV/USDT |      CLV |    USDT |     True |   Spot |   Margin |          |          1 |
+|      COMBOTRY |      COMBO/TRY |    COMBO |     TRY |     True |   Spot |          |          |          1 |
+|     COMBOUSDT |     COMBO/USDT |    COMBO |    USDT |     True |   Spot |   Margin |          |          1 |
+|       COMPBTC |       COMP/BTC |     COMP |     BTC |     True |   Spot |   Margin |          |          1 |
+|       COMPTRY |       COMP/TRY |     COMP |     TRY |     True |   Spot |          |          |          1 |
+|      COMPUSDT |      COMP/USDT |     COMP |    USDT |     True |   Spot |   Margin |          |          1 |
+|        COSBTC |        COS/BTC |      COS |     BTC |     True |   Spot |          |          |          1 |
+|        COSTRY |        COS/TRY |      COS |     TRY |     True |   Spot |          |          |          1 |
+|       COSUSDT |       COS/USDT |      COS |    USDT |     True |   Spot |   Margin |          |          1 |
+|       COTIBTC |       COTI/BTC |     COTI |     BTC |     True |   Spot |   Margin |          |          1 |
+|       COTITRY |       COTI/TRY |     COTI |     TRY |     True |   Spot |          |          |          1 |
+|      COTIUSDT |      COTI/USDT |     COTI |    USDT |     True |   Spot |   Margin |          |          1 |
+|     CREAMUSDT |     CREAM/USDT |    CREAM |    USDT |     True |   Spot |   Margin |          |          1 |
+|        CRVBTC |        CRV/BTC |      CRV |     BTC |     True |   Spot |   Margin |          |          1 |
+|        CRVTRY |        CRV/TRY |      CRV |     TRY |     True |   Spot |          |          |          1 |
+|       CRVUSDT |       CRV/USDT |      CRV |    USDT |     True |   Spot |   Margin |          |          1 |
+|        CTKBNB |        CTK/BNB |      CTK |     BNB |     True |   Spot |          |          |          1 |
+|        CTKBTC |        CTK/BTC |      CTK |     BTC |     True |   Spot |          |          |          1 |
+|       CTKUSDT |       CTK/USDT |      CTK |    USDT |     True |   Spot |   Margin |          |          1 |
+|       CTSIBTC |       CTSI/BTC |     CTSI |     BTC |     True |   Spot |          |          |          1 |
+|      CTSIUSDT |      CTSI/USDT |     CTSI |    USDT |     True |   Spot |   Margin |          |          1 |
+|       CTXCBTC |       CTXC/BTC |     CTXC |     BTC |     True |   Spot |   Margin |          |          1 |
+|      CTXCUSDT |      CTXC/USDT |     CTXC |    USDT |     True |   Spot |   Margin |          |          1 |
+|       CVCUSDT |       CVC/USDT |      CVC |    USDT |     True |   Spot |   Margin |          |          1 |
+|       CVPUSDT |       CVP/USDT |      CVP |    USDT |     True |   Spot |   Margin |          |          1 |
+|       CVXUSDT |       CVX/USDT |      CVX |    USDT |     True |   Spot |   Margin |          |          1 |
+|      CYBERBNB |      CYBER/BNB |    CYBER |     BNB |     True |   Spot |          |          |          1 |
+|      CYBERBTC |      CYBER/BTC |    CYBER |     BTC |     True |   Spot |          |          |          1 |
+|      CYBERETH |      CYBER/ETH |    CYBER |     ETH |     True |   Spot |          |          |          1 |
+|    CYBERFDUSD |    CYBER/FDUSD |    CYBER |   FDUSD |     True |   Spot |          |          |          1 |
+|      CYBERTRY |      CYBER/TRY |    CYBER |     TRY |     True |   Spot |          |          |          1 |
+|     CYBERTUSD |     CYBER/TUSD |    CYBER |    TUSD |     True |   Spot |          |          |          1 |
+|     CYBERUSDT |     CYBER/USDT |    CYBER |    USDT |     True |   Spot |   Margin |          |          1 |
+|        DARBTC |        DAR/BTC |      DAR |     BTC |     True |   Spot |   Margin |          |          1 |
+|        DARTRY |        DAR/TRY |      DAR |     TRY |     True |   Spot |          |          |          1 |
+|       DARUSDT |       DAR/USDT |      DAR |    USDT |     True |   Spot |   Margin |          |          1 |
+|       DASHBTC |       DASH/BTC |     DASH |     BTC |     True |   Spot |   Margin |          |          1 |
+|       DASHETH |       DASH/ETH |     DASH |     ETH |     True |   Spot |          |          |          1 |
+|      DASHUSDT |      DASH/USDT |     DASH |    USDT |     True |   Spot |   Margin |          |          1 |
+|       DATABTC |       DATA/BTC |     DATA |     BTC |     True |   Spot |          |          |          1 |
+|      DATAUSDT |      DATA/USDT |     DATA |    USDT |     True |   Spot |   Margin |          |          1 |
+|        DCRBTC |        DCR/BTC |      DCR |     BTC |     True |   Spot |          |          |          1 |
+|       DCRUSDT |       DCR/USDT |      DCR |    USDT |     True |   Spot |   Margin |          |          1 |
+|       DEGOBTC |       DEGO/BTC |     DEGO |     BTC |     True |   Spot |          |          |          1 |
+|      DEGOUSDT |      DEGO/USDT |     DEGO |    USDT |     True |   Spot |   Margin |          |          1 |
+|       DENTETH |       DENT/ETH |     DENT |     ETH |     True |   Spot |          |          |          1 |
+|       DENTTRY |       DENT/TRY |     DENT |     TRY |     True |   Spot |          |          |          1 |
+|      DENTUSDT |      DENT/USDT |     DENT |    USDT |     True |   Spot |   Margin |          |          1 |
+|      DEXEUSDT |      DEXE/USDT |     DEXE |    USDT |     True |   Spot |   Margin |          |          1 |
+|        DFUSDT |        DF/USDT |       DF |    USDT |     True |   Spot |   Margin |          |          1 |
+|        DGBBTC |        DGB/BTC |      DGB |     BTC |     True |   Spot |   Margin |          |          1 |
+|       DGBUSDT |       DGB/USDT |      DGB |    USDT |     True |   Spot |   Margin |          |          1 |
+|        DIABTC |        DIA/BTC |      DIA |     BTC |     True |   Spot |          |          |          1 |
+|       DIAUSDT |       DIA/USDT |      DIA |    USDT |     True |   Spot |   Margin |          |          1 |
+|       DOCKBTC |       DOCK/BTC |     DOCK |     BTC |     True |   Spot |          |          |          1 |
+|      DOCKUSDT |      DOCK/USDT |     DOCK |    USDT |     True |   Spot |   Margin |          |          1 |
+|       DODOBTC |       DODO/BTC |     DODO |     BTC |     True |   Spot |   Margin |          |          1 |
+|      DODOUSDT |      DODO/USDT |     DODO |    USDT |     True |   Spot |   Margin |          |          1 |
+|       DOGEBRL |       DOGE/BRL |     DOGE |     BRL |     True |   Spot |          |          |          1 |
+|       DOGEBTC |       DOGE/BTC |     DOGE |     BTC |     True |   Spot |   Margin |          |          1 |
+|       DOGEEUR |       DOGE/EUR |     DOGE |     EUR |     True |   Spot |          |          |          1 |
+|     DOGEFDUSD |     DOGE/FDUSD |     DOGE |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|       DOGETRY |       DOGE/TRY |     DOGE |     TRY |     True |   Spot |          |          |          1 |
+|      DOGETUSD |      DOGE/TUSD |     DOGE |    TUSD |     True |   Spot |          |          |          1 |
+|      DOGEUSDC |      DOGE/USDC |     DOGE |    USDC |     True |   Spot |   Margin |          |          1 |
+|      DOGEUSDT |      DOGE/USDT |     DOGE |    USDT |     True |   Spot |   Margin |          |          1 |
+|        DOTBNB |        DOT/BNB |      DOT |     BNB |     True |   Spot |          |          |          1 |
+|        DOTBRL |        DOT/BRL |      DOT |     BRL |     True |   Spot |          |          |          1 |
+|        DOTBTC |        DOT/BTC |      DOT |     BTC |     True |   Spot |   Margin |          |          1 |
+|        DOTETH |        DOT/ETH |      DOT |     ETH |     True |   Spot |          |          |          1 |
+|        DOTEUR |        DOT/EUR |      DOT |     EUR |     True |   Spot |          |          |          1 |
+|      DOTFDUSD |      DOT/FDUSD |      DOT |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        DOTTRY |        DOT/TRY |      DOT |     TRY |     True |   Spot |          |          |          1 |
+|       DOTTUSD |       DOT/TUSD |      DOT |    TUSD |     True |   Spot |          |          |          1 |
+|       DOTUSDC |       DOT/USDC |      DOT |    USDC |     True |   Spot |   Margin |          |          1 |
+|       DOTUSDT |       DOT/USDT |      DOT |    USDT |     True |   Spot |   Margin |          |          1 |
+|       DUSKBTC |       DUSK/BTC |     DUSK |     BTC |     True |   Spot |   Margin |          |          1 |
+|      DUSKUSDT |      DUSK/USDT |     DUSK |    USDT |     True |   Spot |   Margin |          |          1 |
+|       DYDXBNB |       DYDX/BNB |     DYDX |     BNB |     True |   Spot |          |          |          1 |
+|       DYDXBTC |       DYDX/BTC |     DYDX |     BTC |     True |   Spot |   Margin |          |          1 |
+|     DYDXFDUSD |     DYDX/FDUSD |     DYDX |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|       DYDXTRY |       DYDX/TRY |     DYDX |     TRY |     True |   Spot |          |          |          1 |
+|      DYDXUSDT |      DYDX/USDT |     DYDX |    USDT |     True |   Spot |   Margin |          |          1 |
+|        DYMBTC |        DYM/BTC |      DYM |     BTC |     True |   Spot |          |          |          1 |
+|      DYMFDUSD |      DYM/FDUSD |      DYM |   FDUSD |     True |   Spot |          |          |          1 |
+|        DYMTRY |        DYM/TRY |      DYM |     TRY |     True |   Spot |          |          |          1 |
+|       DYMUSDT |       DYM/USDT |      DYM |    USDT |     True |   Spot |   Margin |          |          1 |
+|        EDUBTC |        EDU/BTC |      EDU |     BTC |     True |   Spot |          |          |          1 |
+|        EDUTRY |        EDU/TRY |      EDU |     TRY |     True |   Spot |          |          |          1 |
+|       EDUUSDT |       EDU/USDT |      EDU |    USDT |     True |   Spot |   Margin |          |          1 |
+|       EGLDBNB |       EGLD/BNB |     EGLD |     BNB |     True |   Spot |          |          |          1 |
+|       EGLDBTC |       EGLD/BTC |     EGLD |     BTC |     True |   Spot |   Margin |          |          1 |
+|       EGLDETH |       EGLD/ETH |     EGLD |     ETH |     True |   Spot |          |          |          1 |
+|       EGLDEUR |       EGLD/EUR |     EGLD |     EUR |     True |   Spot |          |          |          1 |
+|     EGLDFDUSD |     EGLD/FDUSD |     EGLD |   FDUSD |     True |   Spot |          |          |          1 |
+|       EGLDRON |       EGLD/RON |     EGLD |     RON |     True |   Spot |          |          |          1 |
+|      EGLDUSDT |      EGLD/USDT |     EGLD |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ELFBTC |        ELF/BTC |      ELF |     BTC |     True |   Spot |          |          |          1 |
+|        ELFETH |        ELF/ETH |      ELF |     ETH |     True |   Spot |          |          |          1 |
+|       ELFUSDT |       ELF/USDT |      ELF |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ENABNB |        ENA/BNB |      ENA |     BNB |     True |   Spot |          |          |          1 |
+|        ENABTC |        ENA/BTC |      ENA |     BTC |     True |   Spot |   Margin |          |          1 |
+|      ENAFDUSD |      ENA/FDUSD |      ENA |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        ENATRY |        ENA/TRY |      ENA |     TRY |     True |   Spot |          |          |          1 |
+|       ENAUSDC |       ENA/USDC |      ENA |    USDC |     True |   Spot |          |          |          1 |
+|       ENAUSDT |       ENA/USDT |      ENA |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ENJBTC |        ENJ/BTC |      ENJ |     BTC |     True |   Spot |   Margin |          |          1 |
+|        ENJETH |        ENJ/ETH |      ENJ |     ETH |     True |   Spot |          |          |          1 |
+|        ENJTRY |        ENJ/TRY |      ENJ |     TRY |     True |   Spot |          |          |          1 |
+|       ENJUSDT |       ENJ/USDT |      ENJ |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ENSBTC |        ENS/BTC |      ENS |     BTC |     True |   Spot |   Margin |          |          1 |
+|      ENSFDUSD |      ENS/FDUSD |      ENS |   FDUSD |     True |   Spot |          |          |          1 |
+|        ENSTRY |        ENS/TRY |      ENS |     TRY |     True |   Spot |          |          |          1 |
+|       ENSUSDT |       ENS/USDT |      ENS |    USDT |     True |   Spot |   Margin |          |          1 |
+|        EOSBTC |        EOS/BTC |      EOS |     BTC |     True |   Spot |   Margin |          |          1 |
+|        EOSETH |        EOS/ETH |      EOS |     ETH |     True |   Spot |   Margin |          |          1 |
+|        EOSTRY |        EOS/TRY |      EOS |     TRY |     True |   Spot |          |          |          1 |
+|       EOSUSDT |       EOS/USDT |      EOS |    USDT |     True |   Spot |   Margin |          |          1 |
+|       EPXUSDT |       EPX/USDT |      EPX |    USDT |     True |   Spot |   Margin |          |          1 |
+|       ERNUSDT |       ERN/USDT |      ERN |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ETCBNB |        ETC/BNB |      ETC |     BNB |     True |   Spot |          |          |          1 |
+|        ETCBTC |        ETC/BTC |      ETC |     BTC |     True |   Spot |   Margin |          |          1 |
+|        ETCETH |        ETC/ETH |      ETC |     ETH |     True |   Spot |          |          |          1 |
+|      ETCFDUSD |      ETC/FDUSD |      ETC |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        ETCTRY |        ETC/TRY |      ETC |     TRY |     True |   Spot |          |          |          1 |
+|       ETCUSDT |       ETC/USDT |      ETC |    USDT |     True |   Spot |   Margin |          |          1 |
+|       ETHAEUR |       ETH/AEUR |      ETH |    AEUR |     True |   Spot |          |          |          1 |
+|       ETHBIDR |       ETH/BIDR |      ETH |    BIDR |     True |   Spot |          |          |          1 |
+|        ETHBRL |        ETH/BRL |      ETH |     BRL |     True |   Spot |          |          |          1 |
+|        ETHBTC |        ETH/BTC |      ETH |     BTC |     True |   Spot |   Margin |          |          1 |
+|        ETHDAI |        ETH/DAI |      ETH |     DAI |     True |   Spot |   Margin |          |          1 |
+|        ETHEUR |        ETH/EUR |      ETH |     EUR |     True |   Spot |          |          |          1 |
+|      ETHFDUSD |      ETH/FDUSD |      ETH |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        ETHJPY |        ETH/JPY |      ETH |     JPY |     True |   Spot |          |          |          1 |
+|        ETHPLN |        ETH/PLN |      ETH |     PLN |     True |   Spot |          |          |          1 |
+|        ETHTRY |        ETH/TRY |      ETH |     TRY |     True |   Spot |          |          |          1 |
+|       ETHTUSD |       ETH/TUSD |      ETH |    TUSD |     True |   Spot |   Margin |          |          1 |
+|        ETHUAH |        ETH/UAH |      ETH |     UAH |     True |   Spot |          |          |          1 |
+|       ETHUSDC |       ETH/USDC |      ETH |    USDC |     True |   Spot |   Margin |          |          1 |
+|       ETHUSDT |       ETH/USDT |      ETH |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ETHZAR |        ETH/ZAR |      ETH |     ZAR |     True |   Spot |          |          |          1 |
+|      ETHFIBNB |      ETHFI/BNB |    ETHFI |     BNB |     True |   Spot |          |          |          1 |
+|      ETHFIBTC |      ETHFI/BTC |    ETHFI |     BTC |     True |   Spot |          |          |          1 |
+|    ETHFIFDUSD |    ETHFI/FDUSD |    ETHFI |   FDUSD |     True |   Spot |          |          |          1 |
+|      ETHFITRY |      ETHFI/TRY |    ETHFI |     TRY |     True |   Spot |          |          |          1 |
+|     ETHFIUSDC |     ETHFI/USDC |    ETHFI |    USDC |     True |   Spot |          |          |          1 |
+|     ETHFIUSDT |     ETHFI/USDT |    ETHFI |    USDT |     True |   Spot |   Margin |          |          1 |
+|       EURAEUR |       EUR/AEUR |      EUR |    AEUR |     True |   Spot |          |          |          1 |
+|       EURUSDC |       EUR/USDC |      EUR |    USDC |     True |   Spot |          |          |          1 |
+|       EURUSDT |       EUR/USDT |      EUR |    USDT |     True |   Spot |          |          |          1 |
+|      FARMUSDT |      FARM/USDT |     FARM |    USDT |     True |   Spot |   Margin |          |          1 |
+|      FDUSDTRY |      FDUSD/TRY |    FDUSD |     TRY |     True |   Spot |          |          |          1 |
+|     FDUSDUSDT |     FDUSD/USDT |    FDUSD |    USDT |     True |   Spot |   Margin |          |          1 |
+|        FETBNB |        FET/BNB |      FET |     BNB |     True |   Spot |          |          |          1 |
+|        FETBRL |        FET/BRL |      FET |     BRL |     True |   Spot |          |          |          1 |
+|        FETBTC |        FET/BTC |      FET |     BTC |     True |   Spot |          |          |          1 |
+|      FETFDUSD |      FET/FDUSD |      FET |   FDUSD |     True |   Spot |          |          |          1 |
+|        FETTRY |        FET/TRY |      FET |     TRY |     True |   Spot |          |          |          1 |
+|       FETUSDC |       FET/USDC |      FET |    USDC |     True |   Spot |          |          |          1 |
+|       FETUSDT |       FET/USDT |      FET |    USDT |     True |   Spot |   Margin |          |          1 |
+|       FIDABTC |       FIDA/BTC |     FIDA |     BTC |     True |   Spot |          |          |          1 |
+|       FIDATRY |       FIDA/TRY |     FIDA |     TRY |     True |   Spot |          |          |          1 |
+|      FIDAUSDT |      FIDA/USDT |     FIDA |    USDT |     True |   Spot |   Margin |          |          1 |
+|        FILBNB |        FIL/BNB |      FIL |     BNB |     True |   Spot |          |          |          1 |
+|        FILBTC |        FIL/BTC |      FIL |     BTC |     True |   Spot |   Margin |          |          1 |
+|        FILETH |        FIL/ETH |      FIL |     ETH |     True |   Spot |          |          |          1 |
+|      FILFDUSD |      FIL/FDUSD |      FIL |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        FILTRY |        FIL/TRY |      FIL |     TRY |     True |   Spot |          |          |          1 |
+|       FILUSDC |       FIL/USDC |      FIL |    USDC |     True |   Spot |          |          |          1 |
+|       FILUSDT |       FIL/USDT |      FIL |    USDT |     True |   Spot |   Margin |          |          1 |
+|        FIOBTC |        FIO/BTC |      FIO |     BTC |     True |   Spot |          |          |          1 |
+|       FIOUSDT |       FIO/USDT |      FIO |    USDT |     True |   Spot |   Margin |          |          1 |
+|       FIROBTC |       FIRO/BTC |     FIRO |     BTC |     True |   Spot |          |          |          1 |
+|      FIROUSDT |      FIRO/USDT |     FIRO |    USDT |     True |   Spot |          |          |          1 |
+|        FISBTC |        FIS/BTC |      FIS |     BTC |     True |   Spot |          |          |          1 |
+|       FISUSDT |       FIS/USDT |      FIS |    USDT |     True |   Spot |   Margin |          |          1 |
+|        FLMBTC |        FLM/BTC |      FLM |     BTC |     True |   Spot |          |          |          1 |
+|       FLMUSDT |       FLM/USDT |      FLM |    USDT |     True |   Spot |   Margin |          |          1 |
+|    FLOKIFDUSD |    FLOKI/FDUSD |    FLOKI |   FDUSD |     True |   Spot |          |          |          1 |
+|      FLOKITRY |      FLOKI/TRY |    FLOKI |     TRY |     True |   Spot |          |          |          1 |
+|     FLOKIUSDC |     FLOKI/USDC |    FLOKI |    USDC |     True |   Spot |          |          |          1 |
+|     FLOKIUSDT |     FLOKI/USDT |    FLOKI |    USDT |     True |   Spot |   Margin |          |          1 |
+|       FLOWBTC |       FLOW/BTC |     FLOW |     BTC |     True |   Spot |   Margin |          |          1 |
+|      FLOWUSDT |      FLOW/USDT |     FLOW |    USDT |     True |   Spot |   Margin |          |          1 |
+|       FLUXBTC |       FLUX/BTC |     FLUX |     BTC |     True |   Spot |          |          |          1 |
+|      FLUXUSDT |      FLUX/USDT |     FLUX |    USDT |     True |   Spot |   Margin |          |          1 |
+|        FORBTC |        FOR/BTC |      FOR |     BTC |     True |   Spot |          |          |          1 |
+|       FORUSDT |       FOR/USDT |      FOR |    USDT |     True |   Spot |   Margin |          |          1 |
+|      FORTHBTC |      FORTH/BTC |    FORTH |     BTC |     True |   Spot |          |          |          1 |
+|     FORTHUSDT |     FORTH/USDT |    FORTH |    USDT |     True |   Spot |   Margin |          |          1 |
+|      FRONTBTC |      FRONT/BTC |    FRONT |     BTC |     True |   Spot |          |          |          1 |
+|      FRONTTRY |      FRONT/TRY |    FRONT |     TRY |     True |   Spot |          |          |          1 |
+|     FRONTTUSD |     FRONT/TUSD |    FRONT |    TUSD |     True |   Spot |          |          |          1 |
+|     FRONTUSDT |     FRONT/USDT |    FRONT |    USDT |     True |   Spot |   Margin |          |          1 |
+|        FTMBNB |        FTM/BNB |      FTM |     BNB |     True |   Spot |          |          |          1 |
+|        FTMBTC |        FTM/BTC |      FTM |     BTC |     True |   Spot |   Margin |          |          1 |
+|        FTMETH |        FTM/ETH |      FTM |     ETH |     True |   Spot |          |          |          1 |
+|        FTMEUR |        FTM/EUR |      FTM |     EUR |     True |   Spot |          |          |          1 |
+|      FTMFDUSD |      FTM/FDUSD |      FTM |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        FTMTRY |        FTM/TRY |      FTM |     TRY |     True |   Spot |          |          |          1 |
+|       FTMUSDC |       FTM/USDC |      FTM |    USDC |     True |   Spot |          |          |          1 |
+|       FTMUSDT |       FTM/USDT |      FTM |    USDT |     True |   Spot |   Margin |          |          1 |
+|       FTTUSDT |       FTT/USDT |      FTT |    USDT |     True |   Spot |   Margin |          |          1 |
+|       FUNUSDT |       FUN/USDT |      FUN |    USDT |     True |   Spot |   Margin |          |          1 |
+|        FXSBTC |        FXS/BTC |      FXS |     BTC |     True |   Spot |          |          |          1 |
+|       FXSUSDT |       FXS/USDT |      FXS |    USDT |     True |   Spot |   Margin |          |          1 |
+|        GALBTC |        GAL/BTC |      GAL |     BTC |     True |   Spot |          |          |          1 |
+|        GALTRY |        GAL/TRY |      GAL |     TRY |     True |   Spot |          |          |          1 |
+|       GALUSDT |       GAL/USDT |      GAL |    USDT |     True |   Spot |   Margin |          |          1 |
+|       GALABNB |       GALA/BNB |     GALA |     BNB |     True |   Spot |          |          |          1 |
+|       GALABRL |       GALA/BRL |     GALA |     BRL |     True |   Spot |          |          |          1 |
+|       GALABTC |       GALA/BTC |     GALA |     BTC |     True |   Spot |   Margin |          |          1 |
+|       GALAETH |       GALA/ETH |     GALA |     ETH |     True |   Spot |          |          |          1 |
+|       GALAEUR |       GALA/EUR |     GALA |     EUR |     True |   Spot |          |          |          1 |
+|     GALAFDUSD |     GALA/FDUSD |     GALA |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|       GALATRY |       GALA/TRY |     GALA |     TRY |     True |   Spot |          |          |          1 |
+|      GALAUSDT |      GALA/USDT |     GALA |    USDT |     True |   Spot |   Margin |          |          1 |
+|        GASBTC |        GAS/BTC |      GAS |     BTC |     True |   Spot |          |          |          1 |
+|      GASFDUSD |      GAS/FDUSD |      GAS |   FDUSD |     True |   Spot |          |          |          1 |
+|        GASTRY |        GAS/TRY |      GAS |     TRY |     True |   Spot |          |          |          1 |
+|       GASUSDT |       GAS/USDT |      GAS |    USDT |     True |   Spot |   Margin |          |          1 |
+|       GFTUSDT |       GFT/USDT |      GFT |    USDT |     True |   Spot |   Margin |          |          1 |
+|      GHSTUSDT |      GHST/USDT |     GHST |    USDT |     True |   Spot |   Margin |          |          1 |
+|        GLMBTC |        GLM/BTC |      GLM |     BTC |     True |   Spot |   Margin |          |          1 |
+|       GLMUSDT |       GLM/USDT |      GLM |    USDT |     True |   Spot |   Margin |          |          1 |
+|       GLMRBTC |       GLMR/BTC |     GLMR |     BTC |     True |   Spot |          |          |          1 |
+|      GLMRUSDT |      GLMR/USDT |     GLMR |    USDT |     True |   Spot |   Margin |          |          1 |
+|        GMTBTC |        GMT/BTC |      GMT |     BTC |     True |   Spot |          |          |          1 |
+|        GMTEUR |        GMT/EUR |      GMT |     EUR |     True |   Spot |          |          |          1 |
+|        GMTTRY |        GMT/TRY |      GMT |     TRY |     True |   Spot |          |          |          1 |
+|       GMTUSDT |       GMT/USDT |      GMT |    USDT |     True |   Spot |   Margin |          |          1 |
+|        GMXBTC |        GMX/BTC |      GMX |     BTC |     True |   Spot |          |          |          1 |
+|       GMXUSDT |       GMX/USDT |      GMX |    USDT |     True |   Spot |   Margin |          |          1 |
+|       GNOUSDT |       GNO/USDT |      GNO |    USDT |     True |   Spot |   Margin |          |          1 |
+|       GNSUSDT |       GNS/USDT |      GNS |    USDT |     True |   Spot |   Margin |          |          1 |
+|        GRTBTC |        GRT/BTC |      GRT |     BTC |     True |   Spot |   Margin |          |          1 |
+|        GRTETH |        GRT/ETH |      GRT |     ETH |     True |   Spot |   Margin |          |          1 |
+|        GRTEUR |        GRT/EUR |      GRT |     EUR |     True |   Spot |          |          |          1 |
+|      GRTFDUSD |      GRT/FDUSD |      GRT |   FDUSD |     True |   Spot |          |          |          1 |
+|        GRTTRY |        GRT/TRY |      GRT |     TRY |     True |   Spot |          |          |          1 |
+|       GRTUSDT |       GRT/USDT |      GRT |    USDT |     True |   Spot |   Margin |          |          1 |
+|        GTCBTC |        GTC/BTC |      GTC |     BTC |     True |   Spot |   Margin |          |          1 |
+|       GTCUSDT |       GTC/USDT |      GTC |    USDT |     True |   Spot |   Margin |          |          1 |
+|       HARDBTC |       HARD/BTC |     HARD |     BTC |     True |   Spot |          |          |          1 |
+|      HARDUSDT |      HARD/USDT |     HARD |    USDT |     True |   Spot |   Margin |          |          1 |
+|       HBARBNB |       HBAR/BNB |     HBAR |     BNB |     True |   Spot |          |          |          1 |
+|       HBARBTC |       HBAR/BTC |     HBAR |     BTC |     True |   Spot |   Margin |          |          1 |
+|       HBARTRY |       HBAR/TRY |     HBAR |     TRY |     True |   Spot |          |          |          1 |
+|      HBARUSDT |      HBAR/USDT |     HBAR |    USDT |     True |   Spot |   Margin |          |          1 |
+|        HFTBTC |        HFT/BTC |      HFT |     BTC |     True |   Spot |          |          |          1 |
+|       HFTUSDT |       HFT/USDT |      HFT |    USDT |     True |   Spot |   Margin |          |          1 |
+|      HIFIUSDT |      HIFI/USDT |     HIFI |    USDT |     True |   Spot |   Margin |          |          1 |
+|       HIGHBTC |       HIGH/BTC |     HIGH |     BTC |     True |   Spot |          |          |          1 |
+|      HIGHUSDT |      HIGH/USDT |     HIGH |    USDT |     True |   Spot |   Margin |          |          1 |
+|       HIVEBTC |       HIVE/BTC |     HIVE |     BTC |     True |   Spot |   Margin |          |          1 |
+|      HIVEUSDT |      HIVE/USDT |     HIVE |    USDT |     True |   Spot |   Margin |          |          1 |
+|       HOOKBTC |       HOOK/BTC |     HOOK |     BTC |     True |   Spot |          |          |          1 |
+|      HOOKUSDT |      HOOK/USDT |     HOOK |    USDT |     True |   Spot |   Margin |          |          1 |
+|        HOTETH |        HOT/ETH |      HOT |     ETH |     True |   Spot |          |          |          1 |
+|        HOTTRY |        HOT/TRY |      HOT |     TRY |     True |   Spot |          |          |          1 |
+|       HOTUSDT |       HOT/USDT |      HOT |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ICPBNB |        ICP/BNB |      ICP |     BNB |     True |   Spot |          |          |          1 |
+|        ICPBTC |        ICP/BTC |      ICP |     BTC |     True |   Spot |   Margin |          |          1 |
+|        ICPETH |        ICP/ETH |      ICP |     ETH |     True |   Spot |          |          |          1 |
+|        ICPEUR |        ICP/EUR |      ICP |     EUR |     True |   Spot |          |          |          1 |
+|      ICPFDUSD |      ICP/FDUSD |      ICP |   FDUSD |     True |   Spot |          |          |          1 |
+|        ICPTRY |        ICP/TRY |      ICP |     TRY |     True |   Spot |          |          |          1 |
+|       ICPUSDT |       ICP/USDT |      ICP |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ICXBTC |        ICX/BTC |      ICX |     BTC |     True |   Spot |   Margin |          |          1 |
+|       ICXUSDT |       ICX/USDT |      ICX |    USDT |     True |   Spot |   Margin |          |          1 |
+|         IDBTC |         ID/BTC |       ID |     BTC |     True |   Spot |   Margin |          |          1 |
+|         IDTRY |         ID/TRY |       ID |     TRY |     True |   Spot |          |          |          1 |
+|        IDUSDT |        ID/USDT |       ID |    USDT |     True |   Spot |   Margin |          |          1 |
+|       IDEXBTC |       IDEX/BTC |     IDEX |     BTC |     True |   Spot |   Margin |          |          1 |
+|      IDEXUSDT |      IDEX/USDT |     IDEX |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ILVBTC |        ILV/BTC |      ILV |     BTC |     True |   Spot |          |          |          1 |
+|       ILVUSDT |       ILV/USDT |      ILV |    USDT |     True |   Spot |   Margin |          |          1 |
+|        IMXBTC |        IMX/BTC |      IMX |     BTC |     True |   Spot |          |          |          1 |
+|        IMXTRY |        IMX/TRY |      IMX |     TRY |     True |   Spot |          |          |          1 |
+|       IMXUSDT |       IMX/USDT |      IMX |    USDT |     True |   Spot |   Margin |          |          1 |
+|        INJBNB |        INJ/BNB |      INJ |     BNB |     True |   Spot |          |          |          1 |
+|        INJBTC |        INJ/BTC |      INJ |     BTC |     True |   Spot |   Margin |          |          1 |
+|        INJETH |        INJ/ETH |      INJ |     ETH |     True |   Spot |          |          |          1 |
+|      INJFDUSD |      INJ/FDUSD |      INJ |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        INJTRY |        INJ/TRY |      INJ |     TRY |     True |   Spot |          |          |          1 |
+|       INJTUSD |       INJ/TUSD |      INJ |    TUSD |     True |   Spot |          |          |          1 |
+|       INJUSDC |       INJ/USDC |      INJ |    USDC |     True |   Spot |   Margin |          |          1 |
+|       INJUSDT |       INJ/USDT |      INJ |    USDT |     True |   Spot |   Margin |          |          1 |
+|       IOSTBTC |       IOST/BTC |     IOST |     BTC |     True |   Spot |          |          |          1 |
+|      IOSTUSDT |      IOST/USDT |     IOST |    USDT |     True |   Spot |   Margin |          |          1 |
+|       IOTABTC |       IOTA/BTC |     IOTA |     BTC |     True |   Spot |   Margin |          |          1 |
+|       IOTAETH |       IOTA/ETH |     IOTA |     ETH |     True |   Spot |          |          |          1 |
+|     IOTAFDUSD |     IOTA/FDUSD |     IOTA |   FDUSD |     True |   Spot |          |          |          1 |
+|       IOTATRY |       IOTA/TRY |     IOTA |     TRY |     True |   Spot |          |          |          1 |
+|      IOTAUSDT |      IOTA/USDT |     IOTA |    USDT |     True |   Spot |   Margin |          |          1 |
+|       IOTXBTC |       IOTX/BTC |     IOTX |     BTC |     True |   Spot |   Margin |          |          1 |
+|       IOTXETH |       IOTX/ETH |     IOTX |     ETH |     True |   Spot |   Margin |          |          1 |
+|      IOTXUSDT |      IOTX/USDT |     IOTX |    USDT |     True |   Spot |   Margin |          |          1 |
+|        IQUSDT |        IQ/USDT |       IQ |    USDT |     True |   Spot |   Margin |          |          1 |
+|       IRISBTC |       IRIS/BTC |     IRIS |     BTC |     True |   Spot |          |          |          1 |
+|      IRISUSDT |      IRIS/USDT |     IRIS |    USDT |     True |   Spot |   Margin |          |          1 |
+|      JASMYTRY |      JASMY/TRY |    JASMY |     TRY |     True |   Spot |          |          |          1 |
+|     JASMYUSDT |     JASMY/USDT |    JASMY |    USDT |     True |   Spot |   Margin |          |          1 |
+|        JOEBTC |        JOE/BTC |      JOE |     BTC |     True |   Spot |   Margin |          |          1 |
+|        JOETRY |        JOE/TRY |      JOE |     TRY |     True |   Spot |          |          |          1 |
+|       JOEUSDT |       JOE/USDT |      JOE |    USDT |     True |   Spot |   Margin |          |          1 |
+|        JSTBTC |        JST/BTC |      JST |     BTC |     True |   Spot |          |          |          1 |
+|       JSTUSDT |       JST/USDT |      JST |    USDT |     True |   Spot |   Margin |          |          1 |
+|      JTOFDUSD |      JTO/FDUSD |      JTO |   FDUSD |     True |   Spot |          |          |          1 |
+|        JTOTRY |        JTO/TRY |      JTO |     TRY |     True |   Spot |          |          |          1 |
+|       JTOUSDC |       JTO/USDC |      JTO |    USDC |     True |   Spot |          |          |          1 |
+|       JTOUSDT |       JTO/USDT |      JTO |    USDT |     True |   Spot |   Margin |          |          1 |
+|      JUPFDUSD |      JUP/FDUSD |      JUP |   FDUSD |     True |   Spot |          |          |          1 |
+|        JUPTRY |        JUP/TRY |      JUP |     TRY |     True |   Spot |          |          |          1 |
+|       JUPUSDC |       JUP/USDC |      JUP |    USDC |     True |   Spot |          |          |          1 |
+|       JUPUSDT |       JUP/USDT |      JUP |    USDT |     True |   Spot |   Margin |          |          1 |
+|        JUVTRY |        JUV/TRY |      JUV |     TRY |     True |   Spot |          |          |          1 |
+|       JUVUSDT |       JUV/USDT |      JUV |    USDT |     True |   Spot |   Margin |          |          1 |
+|       KAVABTC |       KAVA/BTC |     KAVA |     BTC |     True |   Spot |   Margin |          |          1 |
+|      KAVAUSDT |      KAVA/USDT |     KAVA |    USDT |     True |   Spot |   Margin |          |          1 |
+|        KDABTC |        KDA/BTC |      KDA |     BTC |     True |   Spot |          |          |          1 |
+|       KDAUSDT |       KDA/USDT |      KDA |    USDT |     True |   Spot |   Margin |          |          1 |
+|       KEYUSDT |       KEY/USDT |      KEY |    USDT |     True |   Spot |   Margin |          |          1 |
+|       KLAYBTC |       KLAY/BTC |     KLAY |     BTC |     True |   Spot |          |          |          1 |
+|      KLAYUSDT |      KLAY/USDT |     KLAY |    USDT |     True |   Spot |   Margin |          |          1 |
+|        KMDBTC |        KMD/BTC |      KMD |     BTC |     True |   Spot |          |          |          1 |
+|       KMDUSDT |       KMD/USDT |      KMD |    USDT |     True |   Spot |   Margin |          |          1 |
+|        KNCBTC |        KNC/BTC |      KNC |     BTC |     True |   Spot |   Margin |          |          1 |
+|       KNCUSDT |       KNC/USDT |      KNC |    USDT |     True |   Spot |   Margin |          |          1 |
+|      KP3RUSDT |      KP3R/USDT |     KP3R |    USDT |     True |   Spot |   Margin |          |          1 |
+|        KSMBTC |        KSM/BTC |      KSM |     BTC |     True |   Spot |   Margin |          |          1 |
+|       KSMUSDT |       KSM/USDT |      KSM |    USDT |     True |   Spot |   Margin |          |          1 |
+|      LAZIOBTC |      LAZIO/BTC |    LAZIO |     BTC |     True |   Spot |          |          |          1 |
+|      LAZIOTRY |      LAZIO/TRY |    LAZIO |     TRY |     True |   Spot |          |          |          1 |
+|     LAZIOUSDT |     LAZIO/USDT |    LAZIO |    USDT |     True |   Spot |   Margin |          |          1 |
+|        LDOBTC |        LDO/BTC |      LDO |     BTC |     True |   Spot |          |          |          1 |
+|      LDOFDUSD |      LDO/FDUSD |      LDO |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        LDOTRY |        LDO/TRY |      LDO |     TRY |     True |   Spot |          |          |          1 |
+|       LDOUSDT |       LDO/USDT |      LDO |    USDT |     True |   Spot |   Margin |          |          1 |
+|      LEVERTRY |      LEVER/TRY |    LEVER |     TRY |     True |   Spot |          |          |          1 |
+|     LEVERUSDT |     LEVER/USDT |    LEVER |    USDT |     True |   Spot |   Margin |          |          1 |
+|       LINABTC |       LINA/BTC |     LINA |     BTC |     True |   Spot |   Margin |          |          1 |
+|      LINAUSDT |      LINA/USDT |     LINA |    USDT |     True |   Spot |   Margin |          |          1 |
+|       LINKBNB |       LINK/BNB |     LINK |     BNB |     True |   Spot |          |          |          1 |
+|       LINKBRL |       LINK/BRL |     LINK |     BRL |     True |   Spot |          |          |          1 |
+|       LINKBTC |       LINK/BTC |     LINK |     BTC |     True |   Spot |   Margin |          |          1 |
+|       LINKETH |       LINK/ETH |     LINK |     ETH |     True |   Spot |   Margin |          |          1 |
+|       LINKEUR |       LINK/EUR |     LINK |     EUR |     True |   Spot |          |          |          1 |
+|     LINKFDUSD |     LINK/FDUSD |     LINK |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|       LINKTRY |       LINK/TRY |     LINK |     TRY |     True |   Spot |          |          |          1 |
+|      LINKTUSD |      LINK/TUSD |     LINK |    TUSD |     True |   Spot |          |          |          1 |
+|      LINKUSDC |      LINK/USDC |     LINK |    USDC |     True |   Spot |   Margin |          |          1 |
+|      LINKUSDT |      LINK/USDT |     LINK |    USDT |     True |   Spot |   Margin |          |          1 |
+|        LITBTC |        LIT/BTC |      LIT |     BTC |     True |   Spot |   Margin |          |          1 |
+|       LITUSDT |       LIT/USDT |      LIT |    USDT |     True |   Spot |   Margin |          |          1 |
+|       LOKABTC |       LOKA/BTC |     LOKA |     BTC |     True |   Spot |          |          |          1 |
+|      LOKAUSDT |      LOKA/USDT |     LOKA |    USDT |     True |   Spot |   Margin |          |          1 |
+|       LOOMBTC |       LOOM/BTC |     LOOM |     BTC |     True |   Spot |          |          |          1 |
+|       LOOMTRY |       LOOM/TRY |     LOOM |     TRY |     True |   Spot |          |          |          1 |
+|      LOOMUSDT |      LOOM/USDT |     LOOM |    USDT |     True |   Spot |   Margin |          |          1 |
+|        LPTBNB |        LPT/BNB |      LPT |     BNB |     True |   Spot |          |          |          1 |
+|        LPTBTC |        LPT/BTC |      LPT |     BTC |     True |   Spot |   Margin |          |          1 |
+|        LPTTRY |        LPT/TRY |      LPT |     TRY |     True |   Spot |          |          |          1 |
+|       LPTUSDT |       LPT/USDT |      LPT |    USDT |     True |   Spot |   Margin |          |          1 |
+|       LQTYBTC |       LQTY/BTC |     LQTY |     BTC |     True |   Spot |          |          |          1 |
+|     LQTYFDUSD |     LQTY/FDUSD |     LQTY |   FDUSD |     True |   Spot |          |          |          1 |
+|      LQTYUSDT |      LQTY/USDT |     LQTY |    USDT |     True |   Spot |   Margin |          |          1 |
+|        LRCBTC |        LRC/BTC |      LRC |     BTC |     True |   Spot |   Margin |          |          1 |
+|        LRCETH |        LRC/ETH |      LRC |     ETH |     True |   Spot |          |          |          1 |
+|        LRCTRY |        LRC/TRY |      LRC |     TRY |     True |   Spot |          |          |          1 |
+|       LRCUSDT |       LRC/USDT |      LRC |    USDT |     True |   Spot |   Margin |          |          1 |
+|        LSKBTC |        LSK/BTC |      LSK |     BTC |     True |   Spot |          |          |          1 |
+|        LSKETH |        LSK/ETH |      LSK |     ETH |     True |   Spot |          |          |          1 |
+|       LSKUSDT |       LSK/USDT |      LSK |    USDT |     True |   Spot |   Margin |          |          1 |
+|        LTCBNB |        LTC/BNB |      LTC |     BNB |     True |   Spot |          |          |          1 |
+|        LTCBRL |        LTC/BRL |      LTC |     BRL |     True |   Spot |          |          |          1 |
+|        LTCBTC |        LTC/BTC |      LTC |     BTC |     True |   Spot |   Margin |          |          1 |
+|        LTCETH |        LTC/ETH |      LTC |     ETH |     True |   Spot |   Margin |          |          1 |
+|        LTCEUR |        LTC/EUR |      LTC |     EUR |     True |   Spot |          |          |          1 |
+|      LTCFDUSD |      LTC/FDUSD |      LTC |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        LTCTRY |        LTC/TRY |      LTC |     TRY |     True |   Spot |          |          |          1 |
+|       LTCTUSD |       LTC/TUSD |      LTC |    TUSD |     True |   Spot |          |          |          1 |
+|       LTCUSDC |       LTC/USDC |      LTC |    USDC |     True |   Spot |   Margin |          |          1 |
+|       LTCUSDT |       LTC/USDT |      LTC |    USDT |     True |   Spot |   Margin |          |          1 |
+|        LTOBTC |        LTO/BTC |      LTO |     BTC |     True |   Spot |          |          |          1 |
+|       LTOUSDT |       LTO/USDT |      LTO |    USDT |     True |   Spot |   Margin |          |          1 |
+|       LUNATRY |       LUNA/TRY |     LUNA |     TRY |     True |   Spot |          |          |          1 |
+|      LUNAUSDT |      LUNA/USDT |     LUNA |    USDT |     True |   Spot |   Margin |          |          1 |
+|       LUNCTRY |       LUNC/TRY |     LUNC |     TRY |     True |   Spot |          |          |          1 |
+|      LUNCUSDT |      LUNC/USDT |     LUNC |    USDT |     True |   Spot |   Margin |          |          1 |
+|      MAGICBTC |      MAGIC/BTC |    MAGIC |     BTC |     True |   Spot |          |          |          1 |
+|    MAGICFDUSD |    MAGIC/FDUSD |    MAGIC |   FDUSD |     True |   Spot |          |          |          1 |
+|      MAGICTRY |      MAGIC/TRY |    MAGIC |     TRY |     True |   Spot |          |          |          1 |
+|     MAGICUSDT |     MAGIC/USDT |    MAGIC |    USDT |     True |   Spot |   Margin |          |          1 |
+|       MANABTC |       MANA/BTC |     MANA |     BTC |     True |   Spot |   Margin |          |          1 |
+|       MANAETH |       MANA/ETH |     MANA |     ETH |     True |   Spot |          |          |          1 |
+|       MANATRY |       MANA/TRY |     MANA |     TRY |     True |   Spot |          |          |          1 |
+|      MANAUSDT |      MANA/USDT |     MANA |    USDT |     True |   Spot |   Margin |          |          1 |
+|      MANTABNB |      MANTA/BNB |    MANTA |     BNB |     True |   Spot |          |          |          1 |
+|      MANTABTC |      MANTA/BTC |    MANTA |     BTC |     True |   Spot |          |          |          1 |
+|    MANTAFDUSD |    MANTA/FDUSD |    MANTA |   FDUSD |     True |   Spot |          |          |          1 |
+|      MANTATRY |      MANTA/TRY |    MANTA |     TRY |     True |   Spot |          |          |          1 |
+|     MANTAUSDC |     MANTA/USDC |    MANTA |    USDC |     True |   Spot |          |          |          1 |
+|     MANTAUSDT |     MANTA/USDT |    MANTA |    USDT |     True |   Spot |   Margin |          |          1 |
+|       MASKBNB |       MASK/BNB |     MASK |     BNB |     True |   Spot |          |          |          1 |
+|       MASKTRY |       MASK/TRY |     MASK |     TRY |     True |   Spot |          |          |          1 |
+|      MASKUSDT |      MASK/USDT |     MASK |    USDT |     True |   Spot |   Margin |          |          1 |
+|      MATICBNB |      MATIC/BNB |    MATIC |     BNB |     True |   Spot |          |          |          1 |
+|      MATICBRL |      MATIC/BRL |    MATIC |     BRL |     True |   Spot |          |          |          1 |
+|      MATICBTC |      MATIC/BTC |    MATIC |     BTC |     True |   Spot |   Margin |          |          1 |
+|      MATICETH |      MATIC/ETH |    MATIC |     ETH |     True |   Spot |          |          |          1 |
+|      MATICEUR |      MATIC/EUR |    MATIC |     EUR |     True |   Spot |          |          |          1 |
+|    MATICFDUSD |    MATIC/FDUSD |    MATIC |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|      MATICTRY |      MATIC/TRY |    MATIC |     TRY |     True |   Spot |          |          |          1 |
+|     MATICTUSD |     MATIC/TUSD |    MATIC |    TUSD |     True |   Spot |          |          |          1 |
+|     MATICUSDC |     MATIC/USDC |    MATIC |    USDC |     True |   Spot |   Margin |          |          1 |
+|     MATICUSDT |     MATIC/USDT |    MATIC |    USDT |     True |   Spot |   Margin |          |          1 |
+|        MAVBTC |        MAV/BTC |      MAV |     BTC |     True |   Spot |          |          |          1 |
+|        MAVTRY |        MAV/TRY |      MAV |     TRY |     True |   Spot |          |          |          1 |
+|       MAVTUSD |       MAV/TUSD |      MAV |    TUSD |     True |   Spot |          |          |          1 |
+|       MAVUSDT |       MAV/USDT |      MAV |    USDT |     True |   Spot |   Margin |          |          1 |
+|       MBLUSDT |       MBL/USDT |      MBL |    USDT |     True |   Spot |   Margin |          |          1 |
+|       MBOXBTC |       MBOX/BTC |     MBOX |     BTC |     True |   Spot |          |          |          1 |
+|       MBOXTRY |       MBOX/TRY |     MBOX |     TRY |     True |   Spot |          |          |          1 |
+|      MBOXUSDT |      MBOX/USDT |     MBOX |    USDT |     True |   Spot |          |          |          1 |
+|        MDTBTC |        MDT/BTC |      MDT |     BTC |     True |   Spot |          |          |          1 |
+|       MDTUSDT |       MDT/USDT |      MDT |    USDT |     True |   Spot |   Margin |          |          1 |
+|        MDXBTC |        MDX/BTC |      MDX |     BTC |     True |   Spot |   Margin |          |          1 |
+|       MDXUSDT |       MDX/USDT |      MDX |    USDT |     True |   Spot |   Margin |          |          1 |
+|       MEMEBNB |       MEME/BNB |     MEME |     BNB |     True |   Spot |          |          |          1 |
+|       MEMEETH |       MEME/ETH |     MEME |     ETH |     True |   Spot |          |          |          1 |
+|     MEMEFDUSD |     MEME/FDUSD |     MEME |   FDUSD |     True |   Spot |          |          |          1 |
+|       MEMETRY |       MEME/TRY |     MEME |     TRY |     True |   Spot |          |          |          1 |
+|      MEMETUSD |      MEME/TUSD |     MEME |    TUSD |     True |   Spot |          |          |          1 |
+|      MEMEUSDT |      MEME/USDT |     MEME |    USDT |     True |   Spot |   Margin |          |          1 |
+|      METISBTC |      METIS/BTC |    METIS |     BTC |     True |   Spot |          |          |          1 |
+|    METISFDUSD |    METIS/FDUSD |    METIS |   FDUSD |     True |   Spot |          |          |          1 |
+|      METISTRY |      METIS/TRY |    METIS |     TRY |     True |   Spot |          |          |          1 |
+|     METISUSDT |     METIS/USDT |    METIS |    USDT |     True |   Spot |   Margin |          |          1 |
+|       MINABTC |       MINA/BTC |     MINA |     BTC |     True |   Spot |   Margin |          |          1 |
+|       MINATRY |       MINA/TRY |     MINA |     TRY |     True |   Spot |          |          |          1 |
+|      MINAUSDT |      MINA/USDT |     MINA |    USDT |     True |   Spot |   Margin |          |          1 |
+|        MKRBTC |        MKR/BTC |      MKR |     BTC |     True |   Spot |   Margin |          |          1 |
+|        MKRTRY |        MKR/TRY |      MKR |     TRY |     True |   Spot |          |          |          1 |
+|       MKRUSDT |       MKR/USDT |      MKR |    USDT |     True |   Spot |   Margin |          |          1 |
+|        MLNBTC |        MLN/BTC |      MLN |     BTC |     True |   Spot |          |          |          1 |
+|       MLNUSDT |       MLN/USDT |      MLN |    USDT |     True |   Spot |   Margin |          |          1 |
+|       MOVRBTC |       MOVR/BTC |     MOVR |     BTC |     True |   Spot |          |          |          1 |
+|       MOVRTRY |       MOVR/TRY |     MOVR |     TRY |     True |   Spot |          |          |          1 |
+|      MOVRUSDT |      MOVR/USDT |     MOVR |    USDT |     True |   Spot |   Margin |          |          1 |
+|        MTLBTC |        MTL/BTC |      MTL |     BTC |     True |   Spot |   Margin |          |          1 |
+|        MTLTRY |        MTL/TRY |      MTL |     TRY |     True |   Spot |          |          |          1 |
+|       MTLUSDT |       MTL/USDT |      MTL |    USDT |     True |   Spot |   Margin |          |          1 |
+|       NEARBNB |       NEAR/BNB |     NEAR |     BNB |     True |   Spot |          |          |          1 |
+|       NEARBTC |       NEAR/BTC |     NEAR |     BTC |     True |   Spot |   Margin |          |          1 |
+|       NEARETH |       NEAR/ETH |     NEAR |     ETH |     True |   Spot |          |          |          1 |
+|       NEAREUR |       NEAR/EUR |     NEAR |     EUR |     True |   Spot |          |          |          1 |
+|     NEARFDUSD |     NEAR/FDUSD |     NEAR |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|       NEARTRY |       NEAR/TRY |     NEAR |     TRY |     True |   Spot |          |          |          1 |
+|      NEARUSDC |      NEAR/USDC |     NEAR |    USDC |     True |   Spot |   Margin |          |          1 |
+|      NEARUSDT |      NEAR/USDT |     NEAR |    USDT |     True |   Spot |   Margin |          |          1 |
+|        NEOBTC |        NEO/BTC |      NEO |     BTC |     True |   Spot |   Margin |          |          1 |
+|        NEOTRY |        NEO/TRY |      NEO |     TRY |     True |   Spot |          |          |          1 |
+|       NEOUSDT |       NEO/USDT |      NEO |    USDT |     True |   Spot |   Margin |          |          1 |
+|       NEXOBTC |       NEXO/BTC |     NEXO |     BTC |     True |   Spot |          |          |          1 |
+|      NEXOUSDT |      NEXO/USDT |     NEXO |    USDT |     True |   Spot |   Margin |          |          1 |
+|        NFPBNB |        NFP/BNB |      NFP |     BNB |     True |   Spot |          |          |          1 |
+|        NFPBTC |        NFP/BTC |      NFP |     BTC |     True |   Spot |          |          |          1 |
+|      NFPFDUSD |      NFP/FDUSD |      NFP |   FDUSD |     True |   Spot |          |          |          1 |
+|        NFPTRY |        NFP/TRY |      NFP |     TRY |     True |   Spot |          |          |          1 |
+|       NFPTUSD |       NFP/TUSD |      NFP |    TUSD |     True |   Spot |          |          |          1 |
+|       NFPUSDT |       NFP/USDT |      NFP |    USDT |     True |   Spot |   Margin |          |          1 |
+|        NKNBTC |        NKN/BTC |      NKN |     BTC |     True |   Spot |   Margin |          |          1 |
+|       NKNUSDT |       NKN/USDT |      NKN |    USDT |     True |   Spot |   Margin |          |          1 |
+|        NMRBTC |        NMR/BTC |      NMR |     BTC |     True |   Spot |   Margin |          |          1 |
+|       NMRUSDT |       NMR/USDT |      NMR |    USDT |     True |   Spot |   Margin |          |          1 |
+|       NTRNBNB |       NTRN/BNB |     NTRN |     BNB |     True |   Spot |          |          |          1 |
+|       NTRNBTC |       NTRN/BTC |     NTRN |     BTC |     True |   Spot |          |          |          1 |
+|       NTRNTRY |       NTRN/TRY |     NTRN |     TRY |     True |   Spot |          |          |          1 |
+|      NTRNUSDT |      NTRN/USDT |     NTRN |    USDT |     True |   Spot |   Margin |          |          1 |
+|       NULSBTC |       NULS/BTC |     NULS |     BTC |     True |   Spot |   Margin |          |          1 |
+|      NULSUSDT |      NULS/USDT |     NULS |    USDT |     True |   Spot |   Margin |          |          1 |
+|        OAXBTC |        OAX/BTC |      OAX |     BTC |     True |   Spot |          |          |          1 |
+|       OAXUSDT |       OAX/USDT |      OAX |    USDT |     True |   Spot |   Margin |          |          1 |
+|      OCEANBNB |      OCEAN/BNB |    OCEAN |     BNB |     True |   Spot |          |          |          1 |
+|      OCEANBTC |      OCEAN/BTC |    OCEAN |     BTC |     True |   Spot |   Margin |          |          1 |
+|      OCEANTRY |      OCEAN/TRY |    OCEAN |     TRY |     True |   Spot |          |          |          1 |
+|     OCEANUSDT |     OCEAN/USDT |    OCEAN |    USDT |     True |   Spot |   Margin |          |          1 |
+|         OGBTC |         OG/BTC |       OG |     BTC |     True |   Spot |          |          |          1 |
+|         OGTRY |         OG/TRY |       OG |     TRY |     True |   Spot |          |          |          1 |
+|        OGUSDT |        OG/USDT |       OG |    USDT |     True |   Spot |   Margin |          |          1 |
+|        OGNBTC |        OGN/BTC |      OGN |     BTC |     True |   Spot |   Margin |          |          1 |
+|        OGNTRY |        OGN/TRY |      OGN |     TRY |     True |   Spot |          |          |          1 |
+|       OGNUSDT |       OGN/USDT |      OGN |    USDT |     True |   Spot |   Margin |          |          1 |
+|         OMBTC |         OM/BTC |       OM |     BTC |     True |   Spot |          |          |          1 |
+|         OMTRY |         OM/TRY |       OM |     TRY |     True |   Spot |          |          |          1 |
+|        OMUSDT |        OM/USDT |       OM |    USDT |     True |   Spot |   Margin |          |          1 |
+|       OMGUSDT |       OMG/USDT |      OMG |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ONEBTC |        ONE/BTC |      ONE |     BTC |     True |   Spot |   Margin |          |          1 |
+|        ONETRY |        ONE/TRY |      ONE |     TRY |     True |   Spot |          |          |          1 |
+|       ONEUSDT |       ONE/USDT |      ONE |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ONGBTC |        ONG/BTC |      ONG |     BTC |     True |   Spot |          |          |          1 |
+|       ONGUSDT |       ONG/USDT |      ONG |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ONTBTC |        ONT/BTC |      ONT |     BTC |     True |   Spot |   Margin |          |          1 |
+|        ONTTRY |        ONT/TRY |      ONT |     TRY |     True |   Spot |          |          |          1 |
+|       ONTUSDT |       ONT/USDT |      ONT |    USDT |     True |   Spot |   Margin |          |          1 |
+|      OOKIUSDT |      OOKI/USDT |     OOKI |    USDT |     True |   Spot |   Margin |          |          1 |
+|         OPBNB |         OP/BNB |       OP |     BNB |     True |   Spot |          |          |          1 |
+|         OPBTC |         OP/BTC |       OP |     BTC |     True |   Spot |          |          |          1 |
+|         OPETH |         OP/ETH |       OP |     ETH |     True |   Spot |          |          |          1 |
+|         OPEUR |         OP/EUR |       OP |     EUR |     True |   Spot |          |          |          1 |
+|       OPFDUSD |       OP/FDUSD |       OP |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|         OPTRY |         OP/TRY |       OP |     TRY |     True |   Spot |          |          |          1 |
+|        OPUSDC |        OP/USDC |       OP |    USDC |     True |   Spot |   Margin |          |          1 |
+|        OPUSDT |        OP/USDT |       OP |    USDT |     True |   Spot |   Margin |          |          1 |
+|       ORDIBTC |       ORDI/BTC |     ORDI |     BTC |     True |   Spot |          |          |          1 |
+|     ORDIFDUSD |     ORDI/FDUSD |     ORDI |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|       ORDITRY |       ORDI/TRY |     ORDI |     TRY |     True |   Spot |          |          |          1 |
+|      ORDITUSD |      ORDI/TUSD |     ORDI |    TUSD |     True |   Spot |          |          |          1 |
+|      ORDIUSDC |      ORDI/USDC |     ORDI |    USDC |     True |   Spot |   Margin |          |          1 |
+|      ORDIUSDT |      ORDI/USDT |     ORDI |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ORNBTC |        ORN/BTC |      ORN |     BTC |     True |   Spot |   Margin |          |          1 |
+|       ORNUSDT |       ORN/USDT |      ORN |    USDT |     True |   Spot |   Margin |          |          1 |
+|       OSMOBTC |       OSMO/BTC |     OSMO |     BTC |     True |   Spot |          |          |          1 |
+|      OSMOUSDT |      OSMO/USDT |     OSMO |    USDT |     True |   Spot |   Margin |          |          1 |
+|        OXTBTC |        OXT/BTC |      OXT |     BTC |     True |   Spot |          |          |          1 |
+|       OXTUSDT |       OXT/USDT |      OXT |    USDT |     True |   Spot |   Margin |          |          1 |
+|       PAXGBTC |       PAXG/BTC |     PAXG |     BTC |     True |   Spot |          |          |          1 |
+|       PAXGTRY |       PAXG/TRY |     PAXG |     TRY |     True |   Spot |          |          |          1 |
+|      PAXGUSDT |      PAXG/USDT |     PAXG |    USDT |     True |   Spot |   Margin |          |          1 |
+|        PDABTC |        PDA/BTC |      PDA |     BTC |     True |   Spot |          |          |          1 |
+|       PDAUSDT |       PDA/USDT |      PDA |    USDT |     True |   Spot |   Margin |          |          1 |
+|     PENDLEBTC |     PENDLE/BTC |   PENDLE |     BTC |     True |   Spot |          |          |          1 |
+|   PENDLEFDUSD |   PENDLE/FDUSD |   PENDLE |   FDUSD |     True |   Spot |          |          |          1 |
+|     PENDLETRY |     PENDLE/TRY |   PENDLE |     TRY |     True |   Spot |          |          |          1 |
+|    PENDLEUSDC |    PENDLE/USDC |   PENDLE |    USDC |     True |   Spot |   Margin |          |          1 |
+|    PENDLEUSDT |    PENDLE/USDT |   PENDLE |    USDT |     True |   Spot |   Margin |          |          1 |
+|     PEOPLEBTC |     PEOPLE/BTC |   PEOPLE |     BTC |     True |   Spot |   Margin |          |          1 |
+|    PEOPLEUSDT |    PEOPLE/USDT |   PEOPLE |    USDT |     True |   Spot |   Margin |          |          1 |
+|     PEPEFDUSD |     PEPE/FDUSD |     PEPE |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|       PEPETRY |       PEPE/TRY |     PEPE |     TRY |     True |   Spot |          |          |          1 |
+|      PEPETUSD |      PEPE/TUSD |     PEPE |    TUSD |     True |   Spot |          |          |          1 |
+|      PEPEUSDC |      PEPE/USDC |     PEPE |    USDC |     True |   Spot |   Margin |          |          1 |
+|      PEPEUSDT |      PEPE/USDT |     PEPE |    USDT |     True |   Spot |   Margin |          |          1 |
+|       PERPBTC |       PERP/BTC |     PERP |     BTC |     True |   Spot |          |          |          1 |
+|      PERPUSDT |      PERP/USDT |     PERP |    USDT |     True |   Spot |   Margin |          |          1 |
+|        PHABTC |        PHA/BTC |      PHA |     BTC |     True |   Spot |          |          |          1 |
+|       PHAUSDT |       PHA/USDT |      PHA |    USDT |     True |   Spot |   Margin |          |          1 |
+|        PHBBTC |        PHB/BTC |      PHB |     BTC |     True |   Spot |          |          |          1 |
+|       PHBUSDT |       PHB/USDT |      PHB |    USDT |     True |   Spot |   Margin |          |          1 |
+|       PIVXBTC |       PIVX/BTC |     PIVX |     BTC |     True |   Spot |          |          |          1 |
+|      PIVXUSDT |      PIVX/USDT |     PIVX |    USDT |     True |   Spot |   Margin |          |          1 |
+|      PIXELBNB |      PIXEL/BNB |    PIXEL |     BNB |     True |   Spot |          |          |          1 |
+|      PIXELBTC |      PIXEL/BTC |    PIXEL |     BTC |     True |   Spot |          |          |          1 |
+|    PIXELFDUSD |    PIXEL/FDUSD |    PIXEL |   FDUSD |     True |   Spot |          |          |          1 |
+|      PIXELTRY |      PIXEL/TRY |    PIXEL |     TRY |     True |   Spot |          |          |          1 |
+|     PIXELUSDC |     PIXEL/USDC |    PIXEL |    USDC |     True |   Spot |          |          |          1 |
+|     PIXELUSDT |     PIXEL/USDT |    PIXEL |    USDT |     True |   Spot |   Margin |          |          1 |
+|      POLSUSDT |      POLS/USDT |     POLS |    USDT |     True |   Spot |   Margin |          |          1 |
+|      POLYXBTC |      POLYX/BTC |    POLYX |     BTC |     True |   Spot |          |          |          1 |
+|     POLYXUSDT |     POLYX/USDT |    POLYX |    USDT |     True |   Spot |   Margin |          |          1 |
+|       PONDBTC |       POND/BTC |     POND |     BTC |     True |   Spot |   Margin |          |          1 |
+|      PONDUSDT |      POND/USDT |     POND |    USDT |     True |   Spot |   Margin |          |          1 |
+|     PORTALBNB |     PORTAL/BNB |   PORTAL |     BNB |     True |   Spot |          |          |          1 |
+|     PORTALBTC |     PORTAL/BTC |   PORTAL |     BTC |     True |   Spot |          |          |          1 |
+|   PORTALFDUSD |   PORTAL/FDUSD |   PORTAL |   FDUSD |     True |   Spot |          |          |          1 |
+|     PORTALTRY |     PORTAL/TRY |   PORTAL |     TRY |     True |   Spot |          |          |          1 |
+|    PORTALUSDT |    PORTAL/USDT |   PORTAL |    USDT |     True |   Spot |   Margin |          |          1 |
+|      PORTOBTC |      PORTO/BTC |    PORTO |     BTC |     True |   Spot |          |          |          1 |
+|      PORTOTRY |      PORTO/TRY |    PORTO |     TRY |     True |   Spot |          |          |          1 |
+|     PORTOUSDT |     PORTO/USDT |    PORTO |    USDT |     True |   Spot |   Margin |          |          1 |
+|       POWRBTC |       POWR/BTC |     POWR |     BTC |     True |   Spot |          |          |          1 |
+|       POWRETH |       POWR/ETH |     POWR |     ETH |     True |   Spot |          |          |          1 |
+|      POWRUSDT |      POWR/USDT |     POWR |    USDT |     True |   Spot |   Margin |          |          1 |
+|       PROMBTC |       PROM/BTC |     PROM |     BTC |     True |   Spot |          |          |          1 |
+|      PROMUSDT |      PROM/USDT |     PROM |    USDT |     True |   Spot |   Margin |          |          1 |
+|      PROSUSDT |      PROS/USDT |     PROS |    USDT |     True |   Spot |   Margin |          |          1 |
+|        PSGTRY |        PSG/TRY |      PSG |     TRY |     True |   Spot |          |          |          1 |
+|       PSGUSDT |       PSG/USDT |      PSG |    USDT |     True |   Spot |   Margin |          |          1 |
+|    PUNDIXUSDT |    PUNDIX/USDT |   PUNDIX |    USDT |     True |   Spot |   Margin |          |          1 |
+|        PYRBTC |        PYR/BTC |      PYR |     BTC |     True |   Spot |   Margin |          |          1 |
+|       PYRUSDT |       PYR/USDT |      PYR |    USDT |     True |   Spot |   Margin |          |          1 |
+|       PYTHBTC |       PYTH/BTC |     PYTH |     BTC |     True |   Spot |          |          |          1 |
+|     PYTHFDUSD |     PYTH/FDUSD |     PYTH |   FDUSD |     True |   Spot |          |          |          1 |
+|       PYTHTRY |       PYTH/TRY |     PYTH |     TRY |     True |   Spot |          |          |          1 |
+|      PYTHUSDT |      PYTH/USDT |     PYTH |    USDT |     True |   Spot |   Margin |          |          1 |
+|         QIBTC |         QI/BTC |       QI |     BTC |     True |   Spot |          |          |          1 |
+|        QIUSDT |        QI/USDT |       QI |    USDT |     True |   Spot |   Margin |          |          1 |
+|        QKCBTC |        QKC/BTC |      QKC |     BTC |     True |   Spot |          |          |          1 |
+|       QKCUSDT |       QKC/USDT |      QKC |    USDT |     True |   Spot |          |          |          1 |
+|        QNTBTC |        QNT/BTC |      QNT |     BTC |     True |   Spot |   Margin |          |          1 |
+|       QNTUSDT |       QNT/USDT |      QNT |    USDT |     True |   Spot |   Margin |          |          1 |
+|       QTUMBTC |       QTUM/BTC |     QTUM |     BTC |     True |   Spot |   Margin |          |          1 |
+|       QTUMETH |       QTUM/ETH |     QTUM |     ETH |     True |   Spot |          |          |          1 |
+|      QTUMUSDT |      QTUM/USDT |     QTUM |    USDT |     True |   Spot |   Margin |          |          1 |
+|      QUICKBTC |      QUICK/BTC |    QUICK |     BTC |     True |   Spot |          |          |          1 |
+|     QUICKUSDT |     QUICK/USDT |    QUICK |    USDT |     True |   Spot |   Margin |          |          1 |
+|        RADBTC |        RAD/BTC |      RAD |     BTC |     True |   Spot |          |          |          1 |
+|        RADTRY |        RAD/TRY |      RAD |     TRY |     True |   Spot |          |          |          1 |
+|       RADUSDT |       RAD/USDT |      RAD |    USDT |     True |   Spot |   Margin |          |          1 |
+|       RAREBTC |       RARE/BTC |     RARE |     BTC |     True |   Spot |          |          |          1 |
+|       RARETRY |       RARE/TRY |     RARE |     TRY |     True |   Spot |          |          |          1 |
+|      RAREUSDT |      RARE/USDT |     RARE |    USDT |     True |   Spot |   Margin |          |          1 |
+|        RAYBNB |        RAY/BNB |      RAY |     BNB |     True |   Spot |          |          |          1 |
+|      RAYFDUSD |      RAY/FDUSD |      RAY |   FDUSD |     True |   Spot |          |          |          1 |
+|        RAYTRY |        RAY/TRY |      RAY |     TRY |     True |   Spot |          |          |          1 |
+|       RAYUSDT |       RAY/USDT |      RAY |    USDT |     True |   Spot |   Margin |          |          1 |
+|       RDNTBTC |       RDNT/BTC |     RDNT |     BTC |     True |   Spot |          |          |          1 |
+|       RDNTTRY |       RDNT/TRY |     RDNT |     TRY |     True |   Spot |          |          |          1 |
+|      RDNTUSDT |      RDNT/USDT |     RDNT |    USDT |     True |   Spot |   Margin |          |          1 |
+|       REEFTRY |       REEF/TRY |     REEF |     TRY |     True |   Spot |          |          |          1 |
+|      REEFUSDT |      REEF/USDT |     REEF |    USDT |     True |   Spot |   Margin |          |          1 |
+|       REIUSDT |       REI/USDT |      REI |    USDT |     True |   Spot |   Margin |          |          1 |
+|        RENBTC |        REN/BTC |      REN |     BTC |     True |   Spot |          |          |          1 |
+|       RENUSDT |       REN/USDT |      REN |    USDT |     True |   Spot |   Margin |          |          1 |
+|        REQBTC |        REQ/BTC |      REQ |     BTC |     True |   Spot |          |          |          1 |
+|       REQUSDT |       REQ/USDT |      REQ |    USDT |     True |   Spot |   Margin |          |          1 |
+|        RIFBTC |        RIF/BTC |      RIF |     BTC |     True |   Spot |          |          |          1 |
+|       RIFUSDT |       RIF/USDT |      RIF |    USDT |     True |   Spot |   Margin |          |          1 |
+|        RLCBTC |        RLC/BTC |      RLC |     BTC |     True |   Spot |   Margin |          |          1 |
+|        RLCETH |        RLC/ETH |      RLC |     ETH |     True |   Spot |          |          |          1 |
+|       RLCUSDT |       RLC/USDT |      RLC |    USDT |     True |   Spot |   Margin |          |          1 |
+|       RNDRBRL |       RNDR/BRL |     RNDR |     BRL |     True |   Spot |          |          |          1 |
+|       RNDRBTC |       RNDR/BTC |     RNDR |     BTC |     True |   Spot |   Margin |          |          1 |
+|       RNDREUR |       RNDR/EUR |     RNDR |     EUR |     True |   Spot |          |          |          1 |
+|     RNDRFDUSD |     RNDR/FDUSD |     RNDR |   FDUSD |     True |   Spot |          |          |          1 |
+|       RNDRTRY |       RNDR/TRY |     RNDR |     TRY |     True |   Spot |          |          |          1 |
+|      RNDRUSDT |      RNDR/USDT |     RNDR |    USDT |     True |   Spot |   Margin |          |          1 |
+|      RONINBTC |      RONIN/BTC |    RONIN |     BTC |     True |   Spot |          |          |          1 |
+|    RONINFDUSD |    RONIN/FDUSD |    RONIN |   FDUSD |     True |   Spot |          |          |          1 |
+|      RONINTRY |      RONIN/TRY |    RONIN |     TRY |     True |   Spot |          |          |          1 |
+|     RONINUSDT |     RONIN/USDT |    RONIN |    USDT |     True |   Spot |   Margin |          |          1 |
+|       ROSEBTC |       ROSE/BTC |     ROSE |     BTC |     True |   Spot |   Margin |          |          1 |
+|       ROSEETH |       ROSE/ETH |     ROSE |     ETH |     True |   Spot |          |          |          1 |
+|       ROSETRY |       ROSE/TRY |     ROSE |     TRY |     True |   Spot |          |          |          1 |
+|      ROSEUSDT |      ROSE/USDT |     ROSE |    USDT |     True |   Spot |   Margin |          |          1 |
+|       RPLUSDT |       RPL/USDT |      RPL |    USDT |     True |   Spot |   Margin |          |          1 |
+|       RSRUSDT |       RSR/USDT |      RSR |    USDT |     True |   Spot |   Margin |          |          1 |
+|       RUNEBNB |       RUNE/BNB |     RUNE |     BNB |     True |   Spot |          |          |          1 |
+|       RUNEBTC |       RUNE/BTC |     RUNE |     BTC |     True |   Spot |   Margin |          |          1 |
+|       RUNEETH |       RUNE/ETH |     RUNE |     ETH |     True |   Spot |          |          |          1 |
+|     RUNEFDUSD |     RUNE/FDUSD |     RUNE |   FDUSD |     True |   Spot |          |          |          1 |
+|      RUNETUSD |      RUNE/TUSD |     RUNE |    TUSD |     True |   Spot |          |          |          1 |
+|      RUNEUSDT |      RUNE/USDT |     RUNE |    USDT |     True |   Spot |   Margin |          |          1 |
+|        RVNBTC |        RVN/BTC |      RVN |     BTC |     True |   Spot |   Margin |          |          1 |
+|        RVNTRY |        RVN/TRY |      RVN |     TRY |     True |   Spot |          |          |          1 |
+|       RVNUSDT |       RVN/USDT |      RVN |    USDT |     True |   Spot |   Margin |          |          1 |
+|       SAGABNB |       SAGA/BNB |     SAGA |     BNB |     True |   Spot |          |          |          1 |
+|       SAGABTC |       SAGA/BTC |     SAGA |     BTC |     True |   Spot |          |          |          1 |
+|     SAGAFDUSD |     SAGA/FDUSD |     SAGA |   FDUSD |     True |   Spot |          |          |          1 |
+|       SAGATRY |       SAGA/TRY |     SAGA |     TRY |     True |   Spot |          |          |          1 |
+|      SAGAUSDT |      SAGA/USDT |     SAGA |    USDT |     True |   Spot |   Margin |          |          1 |
+|       SANDBNB |       SAND/BNB |     SAND |     BNB |     True |   Spot |          |          |          1 |
+|       SANDBTC |       SAND/BTC |     SAND |     BTC |     True |   Spot |   Margin |          |          1 |
+|       SANDETH |       SAND/ETH |     SAND |     ETH |     True |   Spot |          |          |          1 |
+|     SANDFDUSD |     SAND/FDUSD |     SAND |   FDUSD |     True |   Spot |          |          |          1 |
+|       SANDTRY |       SAND/TRY |     SAND |     TRY |     True |   Spot |          |          |          1 |
+|      SANDUSDT |      SAND/USDT |     SAND |    USDT |     True |   Spot |   Margin |          |          1 |
+|     SANTOSBTC |     SANTOS/BTC |   SANTOS |     BTC |     True |   Spot |          |          |          1 |
+|     SANTOSTRY |     SANTOS/TRY |   SANTOS |     TRY |     True |   Spot |          |          |          1 |
+|    SANTOSUSDT |    SANTOS/USDT |   SANTOS |    USDT |     True |   Spot |   Margin |          |          1 |
+|         SCETH |         SC/ETH |       SC |     ETH |     True |   Spot |          |          |          1 |
+|        SCUSDT |        SC/USDT |       SC |    USDT |     True |   Spot |   Margin |          |          1 |
+|       SCRTBTC |       SCRT/BTC |     SCRT |     BTC |     True |   Spot |          |          |          1 |
+|      SCRTUSDT |      SCRT/USDT |     SCRT |    USDT |     True |   Spot |   Margin |          |          1 |
+|        SEIBNB |        SEI/BNB |      SEI |     BNB |     True |   Spot |          |          |          1 |
+|        SEIBTC |        SEI/BTC |      SEI |     BTC |     True |   Spot |   Margin |          |          1 |
+|      SEIFDUSD |      SEI/FDUSD |      SEI |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        SEITRY |        SEI/TRY |      SEI |     TRY |     True |   Spot |          |          |          1 |
+|       SEITUSD |       SEI/TUSD |      SEI |    TUSD |     True |   Spot |   Margin |          |          1 |
+|       SEIUSDC |       SEI/USDC |      SEI |    USDC |     True |   Spot |          |          |          1 |
+|       SEIUSDT |       SEI/USDT |      SEI |    USDT |     True |   Spot |   Margin |          |          1 |
+|        SFPBTC |        SFP/BTC |      SFP |     BTC |     True |   Spot |   Margin |          |          1 |
+|       SFPUSDT |       SFP/USDT |      SFP |    USDT |     True |   Spot |   Margin |          |          1 |
+|       SHIBBRL |       SHIB/BRL |     SHIB |     BRL |     True |   Spot |          |          |          1 |
+|      SHIBDOGE |      SHIB/DOGE |     SHIB |    DOGE |     True |   Spot |   Margin |          |          1 |
+|       SHIBEUR |       SHIB/EUR |     SHIB |     EUR |     True |   Spot |          |          |          1 |
+|     SHIBFDUSD |     SHIB/FDUSD |     SHIB |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|       SHIBTRY |       SHIB/TRY |     SHIB |     TRY |     True |   Spot |          |          |          1 |
+|      SHIBTUSD |      SHIB/TUSD |     SHIB |    TUSD |     True |   Spot |          |          |          1 |
+|      SHIBUSDC |      SHIB/USDC |     SHIB |    USDC |     True |   Spot |   Margin |          |          1 |
+|      SHIBUSDT |      SHIB/USDT |     SHIB |    USDT |     True |   Spot |   Margin |          |          1 |
+|        SKLBTC |        SKL/BTC |      SKL |     BTC |     True |   Spot |   Margin |          |          1 |
+|        SKLTRY |        SKL/TRY |      SKL |     TRY |     True |   Spot |          |          |          1 |
+|       SKLUSDT |       SKL/USDT |      SKL |    USDT |     True |   Spot |   Margin |          |          1 |
+|        SLPETH |        SLP/ETH |      SLP |     ETH |     True |   Spot |   Margin |          |          1 |
+|        SLPTRY |        SLP/TRY |      SLP |     TRY |     True |   Spot |          |          |          1 |
+|       SLPUSDT |       SLP/USDT |      SLP |    USDT |     True |   Spot |   Margin |          |          1 |
+|        SNTBTC |        SNT/BTC |      SNT |     BTC |     True |   Spot |          |          |          1 |
+|        SNTETH |        SNT/ETH |      SNT |     ETH |     True |   Spot |          |          |          1 |
+|       SNTUSDT |       SNT/USDT |      SNT |    USDT |     True |   Spot |   Margin |          |          1 |
+|        SNXBTC |        SNX/BTC |      SNX |     BTC |     True |   Spot |   Margin |          |          1 |
+|        SNXETH |        SNX/ETH |      SNX |     ETH |     True |   Spot |          |          |          1 |
+|        SNXTRY |        SNX/TRY |      SNX |     TRY |     True |   Spot |          |          |          1 |
+|       SNXUSDT |       SNX/USDT |      SNX |    USDT |     True |   Spot |   Margin |          |          1 |
+|        SOLBNB |        SOL/BNB |      SOL |     BNB |     True |   Spot |          |          |          1 |
+|        SOLBRL |        SOL/BRL |      SOL |     BRL |     True |   Spot |          |          |          1 |
+|        SOLBTC |        SOL/BTC |      SOL |     BTC |     True |   Spot |   Margin |          |          1 |
+|        SOLETH |        SOL/ETH |      SOL |     ETH |     True |   Spot |   Margin |          |          1 |
+|        SOLEUR |        SOL/EUR |      SOL |     EUR |     True |   Spot |          |          |          1 |
+|      SOLFDUSD |      SOL/FDUSD |      SOL |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        SOLTRY |        SOL/TRY |      SOL |     TRY |     True |   Spot |          |          |          1 |
+|       SOLTUSD |       SOL/TUSD |      SOL |    TUSD |     True |   Spot |          |          |          1 |
+|       SOLUSDC |       SOL/USDC |      SOL |    USDC |     True |   Spot |   Margin |          |          1 |
+|       SOLUSDT |       SOL/USDT |      SOL |    USDT |     True |   Spot |   Margin |          |          1 |
+|      SPELLTRY |      SPELL/TRY |    SPELL |     TRY |     True |   Spot |          |          |          1 |
+|     SPELLUSDT |     SPELL/USDT |    SPELL |    USDT |     True |   Spot |   Margin |          |          1 |
+|        SSVBTC |        SSV/BTC |      SSV |     BTC |     True |   Spot |          |          |          1 |
+|        SSVETH |        SSV/ETH |      SSV |     ETH |     True |   Spot |          |          |          1 |
+|       SSVTUSD |       SSV/TUSD |      SSV |    TUSD |     True |   Spot |          |          |          1 |
+|       SSVUSDT |       SSV/USDT |      SSV |    USDT |     True |   Spot |   Margin |          |          1 |
+|      STEEMBTC |      STEEM/BTC |    STEEM |     BTC |     True |   Spot |          |          |          1 |
+|      STEEMETH |      STEEM/ETH |    STEEM |     ETH |     True |   Spot |          |          |          1 |
+|     STEEMUSDT |     STEEM/USDT |    STEEM |    USDT |     True |   Spot |   Margin |          |          1 |
+|        STGBTC |        STG/BTC |      STG |     BTC |     True |   Spot |          |          |          1 |
+|       STGUSDT |       STG/USDT |      STG |    USDT |     True |   Spot |   Margin |          |          1 |
+|      STMXUSDT |      STMX/USDT |     STMX |    USDT |     True |   Spot |   Margin |          |          1 |
+|      STORJBTC |      STORJ/BTC |    STORJ |     BTC |     True |   Spot |          |          |          1 |
+|      STORJTRY |      STORJ/TRY |    STORJ |     TRY |     True |   Spot |          |          |          1 |
+|     STORJUSDT |     STORJ/USDT |    STORJ |    USDT |     True |   Spot |   Margin |          |          1 |
+|       STPTBTC |       STPT/BTC |     STPT |     BTC |     True |   Spot |          |          |          1 |
+|      STPTUSDT |      STPT/USDT |     STPT |    USDT |     True |   Spot |   Margin |          |          1 |
+|      STRAXBTC |      STRAX/BTC |    STRAX |     BTC |     True |   Spot |          |          |          1 |
+|      STRAXTRY |      STRAX/TRY |    STRAX |     TRY |     True |   Spot |          |          |          1 |
+|     STRAXUSDT |     STRAX/USDT |    STRAX |    USDT |     True |   Spot |   Margin |          |          1 |
+|       STRKBTC |       STRK/BTC |     STRK |     BTC |     True |   Spot |          |          |          1 |
+|     STRKFDUSD |     STRK/FDUSD |     STRK |   FDUSD |     True |   Spot |          |          |          1 |
+|       STRKTRY |       STRK/TRY |     STRK |     TRY |     True |   Spot |          |          |          1 |
+|      STRKUSDC |      STRK/USDC |     STRK |    USDC |     True |   Spot |          |          |          1 |
+|      STRKUSDT |      STRK/USDT |     STRK |    USDT |     True |   Spot |   Margin |          |          1 |
+|        STXBNB |        STX/BNB |      STX |     BNB |     True |   Spot |          |          |          1 |
+|        STXBTC |        STX/BTC |      STX |     BTC |     True |   Spot |   Margin |          |          1 |
+|      STXFDUSD |      STX/FDUSD |      STX |   FDUSD |     True |   Spot |          |          |          1 |
+|        STXTRY |        STX/TRY |      STX |     TRY |     True |   Spot |          |          |          1 |
+|       STXUSDT |       STX/USDT |      STX |    USDT |     True |   Spot |   Margin |          |          1 |
+|        SUIBNB |        SUI/BNB |      SUI |     BNB |     True |   Spot |          |          |          1 |
+|        SUIBTC |        SUI/BTC |      SUI |     BTC |     True |   Spot |          |          |          1 |
+|        SUIEUR |        SUI/EUR |      SUI |     EUR |     True |   Spot |          |          |          1 |
+|      SUIFDUSD |      SUI/FDUSD |      SUI |   FDUSD |     True |   Spot |          |          |          1 |
+|        SUITRY |        SUI/TRY |      SUI |     TRY |     True |   Spot |          |          |          1 |
+|       SUITUSD |       SUI/TUSD |      SUI |    TUSD |     True |   Spot |   Margin |          |          1 |
+|       SUIUSDC |       SUI/USDC |      SUI |    USDC |     True |   Spot |   Margin |          |          1 |
+|       SUIUSDT |       SUI/USDT |      SUI |    USDT |     True |   Spot |   Margin |          |          1 |
+|       SUNUSDT |       SUN/USDT |      SUN |    USDT |     True |   Spot |   Margin |          |          1 |
+|      SUPERBTC |      SUPER/BTC |    SUPER |     BTC |     True |   Spot |   Margin |          |          1 |
+|    SUPERFDUSD |    SUPER/FDUSD |    SUPER |   FDUSD |     True |   Spot |          |          |          1 |
+|      SUPERTRY |      SUPER/TRY |    SUPER |     TRY |     True |   Spot |          |          |          1 |
+|     SUPERUSDT |     SUPER/USDT |    SUPER |    USDT |     True |   Spot |   Margin |          |          1 |
+|      SUSHIBTC |      SUSHI/BTC |    SUSHI |     BTC |     True |   Spot |   Margin |          |          1 |
+|     SUSHIUSDT |     SUSHI/USDT |    SUSHI |    USDT |     True |   Spot |   Margin |          |          1 |
+|        SXPBNB |        SXP/BNB |      SXP |     BNB |     True |   Spot |          |          |          1 |
+|        SXPBTC |        SXP/BTC |      SXP |     BTC |     True |   Spot |   Margin |          |          1 |
+|        SXPTRY |        SXP/TRY |      SXP |     TRY |     True |   Spot |          |          |          1 |
+|       SXPUSDT |       SXP/USDT |      SXP |    USDT |     True |   Spot |   Margin |          |          1 |
+|        SYNBTC |        SYN/BTC |      SYN |     BTC |     True |   Spot |          |          |          1 |
+|       SYNUSDT |       SYN/USDT |      SYN |    USDT |     True |   Spot |   Margin |          |          1 |
+|        SYSBTC |        SYS/BTC |      SYS |     BTC |     True |   Spot |          |          |          1 |
+|       SYSUSDT |       SYS/USDT |      SYS |    USDT |     True |   Spot |   Margin |          |          1 |
+|         TUSDT |         T/USDT |        T |    USDT |     True |   Spot |   Margin |          |          1 |
+|        TAOBTC |        TAO/BTC |      TAO |     BTC |     True |   Spot |          |          |          1 |
+|      TAOFDUSD |      TAO/FDUSD |      TAO |   FDUSD |     True |   Spot |          |          |          1 |
+|        TAOTRY |        TAO/TRY |      TAO |     TRY |     True |   Spot |          |          |          1 |
+|       TAOUSDT |       TAO/USDT |      TAO |    USDT |     True |   Spot |   Margin |          |          1 |
+|      TFUELBTC |      TFUEL/BTC |    TFUEL |     BTC |     True |   Spot |   Margin |          |          1 |
+|     TFUELUSDT |     TFUEL/USDT |    TFUEL |    USDT |     True |   Spot |   Margin |          |          1 |
+|      THETABTC |      THETA/BTC |    THETA |     BTC |     True |   Spot |   Margin |          |          1 |
+|      THETAETH |      THETA/ETH |    THETA |     ETH |     True |   Spot |          |          |          1 |
+|    THETAFDUSD |    THETA/FDUSD |    THETA |   FDUSD |     True |   Spot |          |          |          1 |
+|      THETATRY |      THETA/TRY |    THETA |     TRY |     True |   Spot |          |          |          1 |
+|     THETAUSDT |     THETA/USDT |    THETA |    USDT |     True |   Spot |   Margin |          |          1 |
+|        TIABTC |        TIA/BTC |      TIA |     BTC |     True |   Spot |          |          |          1 |
+|      TIAFDUSD |      TIA/FDUSD |      TIA |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        TIATRY |        TIA/TRY |      TIA |     TRY |     True |   Spot |          |          |          1 |
+|       TIATUSD |       TIA/TUSD |      TIA |    TUSD |     True |   Spot |          |          |          1 |
+|       TIAUSDC |       TIA/USDC |      TIA |    USDC |     True |   Spot |          |          |          1 |
+|       TIAUSDT |       TIA/USDT |      TIA |    USDT |     True |   Spot |   Margin |          |          1 |
+|        TKOBTC |        TKO/BTC |      TKO |     BTC |     True |   Spot |          |          |          1 |
+|       TKOUSDT |       TKO/USDT |      TKO |    USDT |     True |   Spot |   Margin |          |          1 |
+|        TLMBTC |        TLM/BTC |      TLM |     BTC |     True |   Spot |   Margin |          |          1 |
+|        TLMTRY |        TLM/TRY |      TLM |     TRY |     True |   Spot |          |          |          1 |
+|       TLMUSDT |       TLM/USDT |      TLM |    USDT |     True |   Spot |   Margin |          |          1 |
+|       TNSRBTC |       TNSR/BTC |     TNSR |     BTC |     True |   Spot |          |          |          1 |
+|     TNSRFDUSD |     TNSR/FDUSD |     TNSR |   FDUSD |     True |   Spot |          |          |          1 |
+|       TNSRTRY |       TNSR/TRY |     TNSR |     TRY |     True |   Spot |          |          |          1 |
+|      TNSRUSDT |      TNSR/USDT |     TNSR |    USDT |     True |   Spot |   Margin |          |          1 |
+|        TRBBTC |        TRB/BTC |      TRB |     BTC |     True |   Spot |   Margin |          |          1 |
+|        TRBTRY |        TRB/TRY |      TRB |     TRY |     True |   Spot |          |          |          1 |
+|       TRBUSDT |       TRB/USDT |      TRB |    USDT |     True |   Spot |   Margin |          |          1 |
+|      TROYUSDT |      TROY/USDT |     TROY |    USDT |     True |   Spot |   Margin |          |          1 |
+|        TRUBTC |        TRU/BTC |      TRU |     BTC |     True |   Spot |   Margin |          |          1 |
+|       TRUUSDT |       TRU/USDT |      TRU |    USDT |     True |   Spot |   Margin |          |          1 |
+|        TRXBNB |        TRX/BNB |      TRX |     BNB |     True |   Spot |          |          |          1 |
+|        TRXBTC |        TRX/BTC |      TRX |     BTC |     True |   Spot |   Margin |          |          1 |
+|        TRXETH |        TRX/ETH |      TRX |     ETH |     True |   Spot |   Margin |          |          1 |
+|        TRXEUR |        TRX/EUR |      TRX |     EUR |     True |   Spot |          |          |          1 |
+|        TRXTRY |        TRX/TRY |      TRX |     TRY |     True |   Spot |          |          |          1 |
+|       TRXUSDT |       TRX/USDT |      TRX |    USDT |     True |   Spot |   Margin |          |          1 |
+|        TRXXRP |        TRX/XRP |      TRX |     XRP |     True |   Spot |          |          |          1 |
+|       TUSDTRY |       TUSD/TRY |     TUSD |     TRY |     True |   Spot |          |          |          1 |
+|      TUSDUSDT |      TUSD/USDT |     TUSD |    USDT |     True |   Spot |   Margin |          |          1 |
+|        TWTBTC |        TWT/BTC |      TWT |     BTC |     True |   Spot |          |          |          1 |
+|        TWTTRY |        TWT/TRY |      TWT |     TRY |     True |   Spot |          |          |          1 |
+|       TWTUSDT |       TWT/USDT |      TWT |    USDT |     True |   Spot |   Margin |          |          1 |
+|       UFTUSDT |       UFT/USDT |      UFT |    USDT |     True |   Spot |   Margin |          |          1 |
+|        UMABTC |        UMA/BTC |      UMA |     BTC |     True |   Spot |          |          |          1 |
+|        UMATRY |        UMA/TRY |      UMA |     TRY |     True |   Spot |          |          |          1 |
+|       UMAUSDT |       UMA/USDT |      UMA |    USDT |     True |   Spot |   Margin |          |          1 |
+|       UNFIBTC |       UNFI/BTC |     UNFI |     BTC |     True |   Spot |          |          |          1 |
+|       UNFITRY |       UNFI/TRY |     UNFI |     TRY |     True |   Spot |          |          |          1 |
+|      UNFIUSDT |      UNFI/USDT |     UNFI |    USDT |     True |   Spot |   Margin |          |          1 |
+|        UNIBTC |        UNI/BTC |      UNI |     BTC |     True |   Spot |   Margin |          |          1 |
+|        UNIETH |        UNI/ETH |      UNI |     ETH |     True |   Spot |          |          |          1 |
+|      UNIFDUSD |      UNI/FDUSD |      UNI |   FDUSD |     True |   Spot |          |          |          1 |
+|        UNITRY |        UNI/TRY |      UNI |     TRY |     True |   Spot |          |          |          1 |
+|       UNIUSDC |       UNI/USDC |      UNI |    USDC |     True |   Spot |          |          |          1 |
+|       UNIUSDT |       UNI/USDT |      UNI |    USDT |     True |   Spot |   Margin |          |          1 |
+|      USDCUSDT |      USDC/USDT |     USDC |    USDT |     True |   Spot |   Margin |          |          1 |
+|      USDPUSDT |      USDP/USDT |     USDP |    USDT |     True |   Spot |          |          |          1 |
+|       USDTARS |       USDT/ARS |     USDT |     ARS |     True |   Spot |          |          |          1 |
+|      USDTBIDR |      USDT/BIDR |     USDT |    BIDR |     True |   Spot |          |          |          1 |
+|       USDTBRL |       USDT/BRL |     USDT |     BRL |     True |   Spot |          |          |          1 |
+|       USDTCZK |       USDT/CZK |     USDT |     CZK |     True |   Spot |          |          |          1 |
+|       USDTDAI |       USDT/DAI |     USDT |     DAI |     True |   Spot |   Margin |          |          1 |
+|      USDTIDRT |      USDT/IDRT |     USDT |    IDRT |     True |   Spot |          |          |          1 |
+|       USDTMXN |       USDT/MXN |     USDT |     MXN |     True |   Spot |          |          |          1 |
+|       USDTPLN |       USDT/PLN |     USDT |     PLN |     True |   Spot |          |          |          1 |
+|       USDTRON |       USDT/RON |     USDT |     RON |     True |   Spot |          |          |          1 |
+|       USDTTRY |       USDT/TRY |     USDT |     TRY |     True |   Spot |          |          |          1 |
+|       USDTUAH |       USDT/UAH |     USDT |     UAH |     True |   Spot |          |          |          1 |
+|       USDTZAR |       USDT/ZAR |     USDT |     ZAR |     True |   Spot |          |          |          1 |
+|     USTCFDUSD |     USTC/FDUSD |     USTC |   FDUSD |     True |   Spot |          |          |          1 |
+|       USTCTRY |       USTC/TRY |     USTC |     TRY |     True |   Spot |          |          |          1 |
+|      USTCUSDT |      USTC/USDT |     USTC |    USDT |     True |   Spot |   Margin |          |          1 |
+|        UTKBTC |        UTK/BTC |      UTK |     BTC |     True |   Spot |   Margin |          |          1 |
+|       UTKUSDT |       UTK/USDT |      UTK |    USDT |     True |   Spot |   Margin |          |          1 |
+|      VANRYBTC |      VANRY/BTC |    VANRY |     BTC |     True |   Spot |          |          |          1 |
+|      VANRYTRY |      VANRY/TRY |    VANRY |     TRY |     True |   Spot |          |          |          1 |
+|     VANRYUSDT |     VANRY/USDT |    VANRY |    USDT |     True |   Spot |   Margin |          |          1 |
+|        VETBNB |        VET/BNB |      VET |     BNB |     True |   Spot |          |          |          1 |
+|        VETBTC |        VET/BTC |      VET |     BTC |     True |   Spot |   Margin |          |          1 |
+|        VETETH |        VET/ETH |      VET |     ETH |     True |   Spot |          |          |          1 |
+|        VETEUR |        VET/EUR |      VET |     EUR |     True |   Spot |          |          |          1 |
+|        VETTRY |        VET/TRY |      VET |     TRY |     True |   Spot |          |          |          1 |
+|       VETUSDT |       VET/USDT |      VET |    USDT |     True |   Spot |   Margin |          |          1 |
+|       VGXUSDT |       VGX/USDT |      VGX |    USDT |     True |   Spot |          |          |          1 |
+|        VIBBTC |        VIB/BTC |      VIB |     BTC |     True |   Spot |          |          |          1 |
+|       VIBUSDT |       VIB/USDT |      VIB |    USDT |     True |   Spot |   Margin |          |          1 |
+|        VICBTC |        VIC/BTC |      VIC |     BTC |     True |   Spot |          |          |          1 |
+|        VICTRY |        VIC/TRY |      VIC |     TRY |     True |   Spot |          |          |          1 |
+|       VICUSDT |       VIC/USDT |      VIC |    USDT |     True |   Spot |   Margin |          |          1 |
+|       VIDTBTC |       VIDT/BTC |     VIDT |     BTC |     True |   Spot |          |          |          1 |
+|      VIDTUSDT |      VIDT/USDT |     VIDT |    USDT |     True |   Spot |   Margin |          |          1 |
+|       VITEBTC |       VITE/BTC |     VITE |     BTC |     True |   Spot |          |          |          1 |
+|      VITEUSDT |      VITE/USDT |     VITE |    USDT |     True |   Spot |   Margin |          |          1 |
+|      VOXELBTC |      VOXEL/BTC |    VOXEL |     BTC |     True |   Spot |          |          |          1 |
+|     VOXELUSDT |     VOXEL/USDT |    VOXEL |    USDT |     True |   Spot |   Margin |          |          1 |
+|      VTHOUSDT |      VTHO/USDT |     VTHO |    USDT |     True |   Spot |   Margin |          |          1 |
+|          WBTC |          W/BTC |        W |     BTC |     True |   Spot |          |          |          1 |
+|        WFDUSD |        W/FDUSD |        W |   FDUSD |     True |   Spot |          |          |          1 |
+|          WTRY |          W/TRY |        W |     TRY |     True |   Spot |          |          |          1 |
+|         WUSDT |         W/USDT |        W |    USDT |     True |   Spot |   Margin |          |          1 |
+|        WANBTC |        WAN/BTC |      WAN |     BTC |     True |   Spot |          |          |          1 |
+|       WANUSDT |       WAN/USDT |      WAN |    USDT |     True |   Spot |   Margin |          |          1 |
+|      WAVESBTC |      WAVES/BTC |    WAVES |     BTC |     True |   Spot |   Margin |          |          1 |
+|      WAVESETH |      WAVES/ETH |    WAVES |     ETH |     True |   Spot |          |          |          1 |
+|      WAVESTRY |      WAVES/TRY |    WAVES |     TRY |     True |   Spot |          |          |          1 |
+|     WAVESUSDT |     WAVES/USDT |    WAVES |    USDT |     True |   Spot |   Margin |          |          1 |
+|       WAXPBTC |       WAXP/BTC |     WAXP |     BTC |     True |   Spot |   Margin |          |          1 |
+|      WAXPUSDT |      WAXP/USDT |     WAXP |    USDT |     True |   Spot |   Margin |          |          1 |
+|      WBETHETH |      WBETH/ETH |    WBETH |     ETH |     True |   Spot |   Margin |          |          1 |
+|     WBETHUSDT |     WBETH/USDT |    WBETH |    USDT |     True |   Spot |   Margin |          |          1 |
+|       WBTCBTC |       WBTC/BTC |     WBTC |     BTC |     True |   Spot |   Margin |          |          1 |
+|       WBTCETH |       WBTC/ETH |     WBTC |     ETH |     True |   Spot |          |          |          1 |
+|      WBTCUSDT |      WBTC/USDT |     WBTC |    USDT |     True |   Spot |   Margin |          |          1 |
+|        WIFBTC |        WIF/BTC |      WIF |     BTC |     True |   Spot |          |          |          1 |
+|      WIFFDUSD |      WIF/FDUSD |      WIF |   FDUSD |     True |   Spot |          |          |          1 |
+|        WIFTRY |        WIF/TRY |      WIF |     TRY |     True |   Spot |          |          |          1 |
+|       WIFUSDC |       WIF/USDC |      WIF |    USDC |     True |   Spot |          |          |          1 |
+|       WIFUSDT |       WIF/USDT |      WIF |    USDT |     True |   Spot |   Margin |          |          1 |
+|        WINBNB |        WIN/BNB |      WIN |     BNB |     True |   Spot |          |          |          1 |
+|        WINBRL |        WIN/BRL |      WIN |     BRL |     True |   Spot |          |          |          1 |
+|        WINEUR |        WIN/EUR |      WIN |     EUR |     True |   Spot |          |          |          1 |
+|        WINTRX |        WIN/TRX |      WIN |     TRX |     True |   Spot |          |          |          1 |
+|       WINUSDT |       WIN/USDT |      WIN |    USDT |     True |   Spot |   Margin |          |          1 |
+|      WINGUSDT |      WING/USDT |     WING |    USDT |     True |   Spot |   Margin |          |          1 |
+|        WLDBTC |        WLD/BTC |      WLD |     BTC |     True |   Spot |   Margin |          |          1 |
+|      WLDFDUSD |      WLD/FDUSD |      WLD |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        WLDTRY |        WLD/TRY |      WLD |     TRY |     True |   Spot |          |          |          1 |
+|       WLDUSDC |       WLD/USDC |      WLD |    USDC |     True |   Spot |   Margin |          |          1 |
+|       WLDUSDT |       WLD/USDT |      WLD |    USDT |     True |   Spot |   Margin |          |          1 |
+|      WNXMUSDT |      WNXM/USDT |     WNXM |    USDT |     True |   Spot |          |          |          1 |
+|        WOOBTC |        WOO/BTC |      WOO |     BTC |     True |   Spot |          |          |          1 |
+|       WOOUSDT |       WOO/USDT |      WOO |    USDT |     True |   Spot |   Margin |          |          1 |
+|       WRXUSDT |       WRX/USDT |      WRX |    USDT |     True |   Spot |   Margin |          |          1 |
+|        XAIBNB |        XAI/BNB |      XAI |     BNB |     True |   Spot |          |          |          1 |
+|        XAIBTC |        XAI/BTC |      XAI |     BTC |     True |   Spot |          |          |          1 |
+|      XAIFDUSD |      XAI/FDUSD |      XAI |   FDUSD |     True |   Spot |          |          |          1 |
+|        XAITRY |        XAI/TRY |      XAI |     TRY |     True |   Spot |          |          |          1 |
+|       XAITUSD |       XAI/TUSD |      XAI |    TUSD |     True |   Spot |          |          |          1 |
+|       XAIUSDT |       XAI/USDT |      XAI |    USDT |     True |   Spot |   Margin |          |          1 |
+|        XECTRY |        XEC/TRY |      XEC |     TRY |     True |   Spot |          |          |          1 |
+|       XECUSDT |       XEC/USDT |      XEC |    USDT |     True |   Spot |   Margin |          |          1 |
+|       XEMUSDT |       XEM/USDT |      XEM |    USDT |     True |   Spot |   Margin |          |          1 |
+|        XLMBTC |        XLM/BTC |      XLM |     BTC |     True |   Spot |   Margin |          |          1 |
+|        XLMETH |        XLM/ETH |      XLM |     ETH |     True |   Spot |          |          |          1 |
+|        XLMEUR |        XLM/EUR |      XLM |     EUR |     True |   Spot |          |          |          1 |
+|        XLMTRY |        XLM/TRY |      XLM |     TRY |     True |   Spot |          |          |          1 |
+|       XLMUSDT |       XLM/USDT |      XLM |    USDT |     True |   Spot |   Margin |          |          1 |
+|        XNOBTC |        XNO/BTC |      XNO |     BTC |     True |   Spot |          |          |          1 |
+|       XNOUSDT |       XNO/USDT |      XNO |    USDT |     True |   Spot |   Margin |          |          1 |
+|        XRPBNB |        XRP/BNB |      XRP |     BNB |     True |   Spot |          |          |          1 |
+|        XRPBRL |        XRP/BRL |      XRP |     BRL |     True |   Spot |          |          |          1 |
+|        XRPBTC |        XRP/BTC |      XRP |     BTC |     True |   Spot |   Margin |          |          1 |
+|        XRPETH |        XRP/ETH |      XRP |     ETH |     True |   Spot |   Margin |          |          1 |
+|        XRPEUR |        XRP/EUR |      XRP |     EUR |     True |   Spot |          |          |          1 |
+|      XRPFDUSD |      XRP/FDUSD |      XRP |   FDUSD |     True |   Spot |   Margin |          |          1 |
+|        XRPTRY |        XRP/TRY |      XRP |     TRY |     True |   Spot |          |          |          1 |
+|       XRPTUSD |       XRP/TUSD |      XRP |    TUSD |     True |   Spot |          |          |          1 |
+|       XRPUSDC |       XRP/USDC |      XRP |    USDC |     True |   Spot |   Margin |          |          1 |
+|       XRPUSDT |       XRP/USDT |      XRP |    USDT |     True |   Spot |   Margin |          |          1 |
+|        XTZBTC |        XTZ/BTC |      XTZ |     BTC |     True |   Spot |   Margin |          |          1 |
+|       XTZUSDT |       XTZ/USDT |      XTZ |    USDT |     True |   Spot |   Margin |          |          1 |
+|        XVGETH |        XVG/ETH |      XVG |     ETH |     True |   Spot |          |          |          1 |
+|        XVGTRY |        XVG/TRY |      XVG |     TRY |     True |   Spot |          |          |          1 |
+|       XVGUSDT |       XVG/USDT |      XVG |    USDT |     True |   Spot |   Margin |          |          1 |
+|        XVSBNB |        XVS/BNB |      XVS |     BNB |     True |   Spot |          |          |          1 |
+|        XVSBTC |        XVS/BTC |      XVS |     BTC |     True |   Spot |          |          |          1 |
+|        XVSTRY |        XVS/TRY |      XVS |     TRY |     True |   Spot |          |          |          1 |
+|       XVSUSDT |       XVS/USDT |      XVS |    USDT |     True |   Spot |   Margin |          |          1 |
+|        YFIBTC |        YFI/BTC |      YFI |     BTC |     True |   Spot |          |          |          1 |
+|       YFIUSDT |       YFI/USDT |      YFI |    USDT |     True |   Spot |   Margin |          |          1 |
+|        YGGBTC |        YGG/BTC |      YGG |     BTC |     True |   Spot |   Margin |          |          1 |
+|       YGGUSDC |       YGG/USDC |      YGG |    USDC |     True |   Spot |          |          |          1 |
+|       YGGUSDT |       YGG/USDT |      YGG |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ZECBTC |        ZEC/BTC |      ZEC |     BTC |     True |   Spot |   Margin |          |          1 |
+|        ZECETH |        ZEC/ETH |      ZEC |     ETH |     True |   Spot |          |          |          1 |
+|       ZECUSDT |       ZEC/USDT |      ZEC |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ZENBTC |        ZEN/BTC |      ZEN |     BTC |     True |   Spot |          |          |          1 |
+|        ZENETH |        ZEN/ETH |      ZEN |     ETH |     True |   Spot |          |          |          1 |
+|       ZENUSDT |       ZEN/USDT |      ZEN |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ZILBTC |        ZIL/BTC |      ZIL |     BTC |     True |   Spot |   Margin |          |          1 |
+|        ZILETH |        ZIL/ETH |      ZIL |     ETH |     True |   Spot |          |          |          1 |
+|        ZILTRY |        ZIL/TRY |      ZIL |     TRY |     True |   Spot |          |          |          1 |
+|       ZILUSDT |       ZIL/USDT |      ZIL |    USDT |     True |   Spot |   Margin |          |          1 |
+|        ZRXBTC |        ZRX/BTC |      ZRX |     BTC |     True |   Spot |   Margin |          |          1 |
+|       ZRXUSDT |       ZRX/USDT |      ZRX |    USDT |     True |   Spot |   Margin |          |          1 |
++---------------+----------------+----------+---------+----------+--------+----------+----------+------------+

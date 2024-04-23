@@ -1,4 +1,5 @@
-FROM freqtradeorg/freqtrade:develop
+# FROM freqtradeorg/freqtrade:develop
+FROM freqtradeorg/freqtrade:develop_plot
 
 # Switch user to root if you must install something from apt
 # Don't forget to switch the user back below!
@@ -9,3 +10,6 @@ RUN pip install --user pyti
 
 # Switch back to user (only if you required root above)
 # USER ftuser
+
+# Install the 'ta' package using pip
+RUN pip install ta

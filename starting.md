@@ -39,6 +39,10 @@ docker-compose run --rm freqtrade backtesting --strategy Heracles --timeframe 1h
 
 docker-compose run --rm freqtrade backtesting --strategy FixedRiskRewardLoss --timeframe 1h --timerange=20240101-20240331 --export trades
 
-docker-compose run --rm freqtrade backtesting --strategy-list mabStra multi_tf MultiMa PatternRecognition PowerTower Strategy001_custom_exit Strategy001 Strategy002 Strategy003 Strategy004 Strategy005 Supertrend SwingHighToSky UniversalMACD --timeframe 1h --timerange=20240101-20240331
+docker-compose run --rm freqtrade backtesting --strategy-list mabStra MultiMa PatternRecognition PowerTower Strategy001_custom_exit Strategy001 Strategy002 Strategy003 Strategy004 Strategy005 Supertrend SwingHighToSky UniversalMACD --timeframe 1h --timerange=20240101-20240331
 
 docker-compose run --rm freqtrade download-data --exchange binance -p BTC/USDT -t 15m 30m --timerange=20200101-20240331 --trading-mode spot
+
+docker-compose run --rm freqtrade trade --logfile ./user_data/logs/freqtrade.log --db-url sqlite:///./user_data/tradesv3.sqlite --config ./user_data/config.json --strategy PatternRecognition
+
+docker-compose run --rm freqtrade backtesting --strategy PatternRecognition --timeframe 1h --timerange=20240101-20240331
